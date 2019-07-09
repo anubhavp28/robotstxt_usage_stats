@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /banners/
+Disallow: /link/
+Disallow: /scripts/
+Disallow: /profile/
+Disallow: /go/
+Disallow: /print/
+Disallow: /cgi-bin/
+Disallow: /frames/
+Disallow: /daily/article_cover/
+Disallow: /best/fbs/
+Host: https://www.kp.ru
+Sitemap: https://www.kp.ru/sitemap.xml.gz

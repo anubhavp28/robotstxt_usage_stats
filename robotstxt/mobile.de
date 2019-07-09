@@ -1,0 +1,13 @@
+###robots.txt www.mobile.de###
+
+User-agent: Googlebot
+Disallow: /4288/
+Disallow: /finanzierung/route
+
+User-agent: *
+Disallow: /4288/
+Disallow: /finanzierung/route
+
+Sitemap: https://www.mobile.de/sitemap.xml
+
+###robots.txt END###

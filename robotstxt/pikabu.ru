@@ -1,0 +1,39 @@
+User-Agent: *  
+Disallow: /generate_xml.php  
+Disallow: /restore.php  
+Disallow: /WT4fgrvixo2F/*  
+Disallow: /ajax/*  
+Disallow: /api/*  
+Disallow: /api2/*  
+Disallow: /assets/*  
+Disallow: /cron/*  
+Disallow: /data_vars/*  
+Disallow: /external/*  
+Disallow: /files/*  
+Disallow: /rabbit_workers/*  
+Disallow: /staff/*  
+Disallow: /pds/*  
+Disallow: *username=*  
+Disallow: /offer-redirect/
+
+User-Agent: Mail.RU_Bot
+Disallow: /generate_xml.php
+Disallow: /restore.php
+Disallow: /WT4fgrvixo2F/*
+Disallow: /ajax/*
+Disallow: /api/*
+Disallow: /api2/*
+Disallow: /assets/*
+Disallow: /cron/*
+Disallow: /data_vars/*
+Disallow: /external/*
+Disallow: /files/*
+Disallow: /rabbit_workers/*
+Disallow: /staff/*
+Disallow: /pds/*
+Disallow: *username=*
+Disallow: /offer-redirect/
+Crawl-Delay: 3
+
+Sitemap: https://pikabu.ru/sitemap_index.xml
+

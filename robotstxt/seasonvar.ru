@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /playls/
+Disallow: /playlsold/
+Disallow: /playls2/
+Disallow: /serialinfo/
+Disallow: /actor/
+Disallow: /tag/
+Disallow: /search
+Disallow: /jsonMark.php
+Disallow: /cview.php
+Disallow: /ajax.php
+Disallow: /autocomplete.php
+Disallow: /profile/
+Disallow: /?mode=actor&query=*
+Disallow: /?mode=actor&query=*&page=*
+Disallow: /?mode=search&query=*
+Disallow: /?mode=search&query=*&page=*
+Disallow: /?mode=soon
+Disallow: /?mode=tnt
+Disallow: /?mode=top
+Disallow: /?mode=top&period=*
+Disallow: /?mode=top&genre=*&period=*
+Disallow: /?mode=top&year=*
+Disallow: /?mode=top&genre=*&year=*
+
+Host: seasonvar.ru

@@ -1,0 +1,68 @@
+### BEGIN FILE ###
+#
+# allow-all
+# DR
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <http://www.robotstxt.org/ wc/ exclusion.html> is strictly
+# prohibited.
+# v3
+#
+
+User-agent: *
+Disallow: /b/*LH_
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /*rt=nc
+Disallow: /*rt%3Dnc
+Disallow: /edc/
+Disallow: /sch/*%EF
+Disallow: /sch/*LH_Auction
+Disallow: /sch/*LH_BIN
+Disallow: /sch/*LH_ItemCondition
+Disallow: /sch/*LH_OUTLETMALLSELLERS
+Disallow: /sch/*LH_RPA
+Disallow: /sch/*LH_Sold
+Disallow: /sch/aop/
+Disallow: /sl/*bn_*?
+Disallow: /sl/node
+Disallow: /sme/
+Disallow: /soc/
+Disallow: /urw/write-review/
+Noindex: /usr/*/all-follows
+Disallow: /usr/*/all-follows
+Noindex: /usr/*/followers
+Disallow: /usr/*/followers
+Disallow: /sch/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /b/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /cta/
+Disallow: /e/*?
+
+# KWSRP Sitemaps
+Sitemap: https://www.ebay.fr/lst/KWSRP-71-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.fr/lst/VIS-71-index.xml
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.fr/lst/PRP-71-index.xml
+
+# BROWSE1 Sitemaps
+Sitemap: https://www.ebay.fr/lst/BROWSE1-71-index.xml
+
+# BROWSE2 Sitemaps
+Sitemap: https://www.ebay.fr/lst/BROWSE2-71-index.xml
+
+# BROWSE3 Sitemaps
+Sitemap: https://www.ebay.fr/lst/BROWSE3-71-index.xml
+
+### END FILE ###

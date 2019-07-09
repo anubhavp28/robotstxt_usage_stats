@@ -1,0 +1,23 @@
+User-agent: googlebot
+Disallow: /x/
+Disallow: /menu/
+Disallow: /maintenance.html
+Disallow: /sherlock.html
+Disallow: /test.html
+Disallow: /googlee97209bb30ba6373.html
+Disallow: /*.swf
+Disallow: /*.txt
+Disallow: /*.xml
+Disallow: /*.js
+
+User-agent: *
+Disallow: /x/
+Disallow: /menu/
+Disallow: /maintenance.html
+Disallow: /sherlock.html
+Disallow: /test.html
+Disallow: /googlee97209bb30ba6373.html
+Disallow: /*.swf
+Disallow: /*.txt
+Disallow: /*.xml
+Disallow: /*.js

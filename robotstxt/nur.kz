@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /*.php
+Disallow: /*?utm_campaign*
+Disallow: /*?utm_content*
+Disallow: /*?utm_medium*
+Disallow: /*?utm_source*
+Disallow: /?pk_campaign=*
+Disallow: /?preview_id
+Disallow: *fb_comment_id=
+Disallow: */away*
+Disallow: */maillist/*
+Disallow: */trackback
+Disallow: *sub=
+Disallow: /cgi-bin
+Disallow: /jw/
+Disallow: /feed/
+Disallow: /rss*
+Disallow: /widget4/
+Disallow: /nur/speed_test.html
+Disallow: /preview/*
+Allow: /rss/yandex.rss
+Allow: /rss/yandexzen.rss
+
+Host: https://www.nur.kz
+Sitemap: https://www.nur.kz/sitemap.xml 

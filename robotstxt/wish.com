@@ -1,0 +1,22 @@
+Sitemap: https://www.wish.com/sitemap.xml
+
+User-agent: *
+Disallow: /unsubscribe
+Disallow: /gift-cards
+Disallow: /transaction
+Disallow: /logout
+Disallow: /settings
+Disallow: /opt-in-mobile
+Disallow: /*?next
+Disallow: /*&next
+Disallow: /cart
+Disallow: /shipping
+Disallow: /payment
+Disallow: /order
+Disallow: /notifications
+Disallow: /rewards
+Disallow: /cash
+Disallow: /wishlist
+Disallow: /profile
+Disallow: /daily-login-bonus
+Disallow: /settings

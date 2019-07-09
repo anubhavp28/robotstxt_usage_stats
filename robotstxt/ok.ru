@@ -1,0 +1,67 @@
+Sitemap: https://ok.ru/sitemap.xml.gz
+
+User-agent: *
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*
+
+User-agent: Mail.Ru
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*
+
+User-agent: Googlebot
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*
+
+User-agent: Yandex
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*
+Host: https://ok.ru
+
+User-agent: Bingbot
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*

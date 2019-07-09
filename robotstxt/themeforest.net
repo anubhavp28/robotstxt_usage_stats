@@ -1,0 +1,28 @@
+User-agent: *
+
+Disallow: *?compatible_with*
+Disallow: *?platform*
+Disallow: */full_screen_preview/
+Disallow: *?sales*
+Disallow: */cart/*
+Disallow: */sign_in?*
+Disallow: */item_support/
+Disallow: /affiliate/
+Disallow: /referral/
+Disallow: /shopfront-api/
+Disallow: /shopfront_api/
+Disallow: /cart/
+Disallow: *?sort=*
+Disallow: *,*,*
+Disallow: *?attribute_key
+Disallow: *\+*\+*
+Disallow: /cart$
+Disallow: /sign_in
+Disallow: /consociate/
+Disallow: *price_min=*
+Disallow: *price_max=*
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+Sitemap: https://s3.envato.com/sitemaps/themeforest.xml.gz

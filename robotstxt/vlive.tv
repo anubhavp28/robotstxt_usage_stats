@@ -1,0 +1,11 @@
+User-agent: * 
+Disallow: /auth/
+Disallow: /my/
+Disallow: /purchase/
+Disallow: /error/
+Disallow: /monitor/
+
+User-agent: Mozilla/5.0 (compatible; bnf.fr_bot; +http://www.bnf.fr/fr/outils/a.dl_web_capture_robot.html)
+User-agent: Mozilla/5.0 (compatible; heritrix/3.2.0 +http://www.oasis.go.kr)
+Disallow: /embed/
+Sitemap: http://www.vlive.tv/sitemap/sitemap.xml

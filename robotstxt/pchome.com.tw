@@ -1,0 +1,1821 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" class="ie6 ieo"> <![endif]-->
+<!--[if IE 7 ]>    <html xmlns="http://www.w3.org/1999/xhtml" class="ie7 ieo"> <![endif]-->
+<!--[if IE 8 ]>    <html xmlns="http://www.w3.org/1999/xhtml" class="ie8 ieo"> <![endif]-->
+<!--[if IE 9 ]>    <html xmlns="http://www.w3.org/1999/xhtml" class="ie9 ieo"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html>
+<!--<![endif]-->
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142497306-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142497306-1');
+</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Language" content="zh-tw" />
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="0" />
+    <meta name="title" content="" />
+    <meta name="keyword" content="部落格, blog, 新聞台, 相簿, photo, 免費信箱, 信箱, 線上購物, 24h購物, 女性購物, 網路購物, 商店街, 露天拍賣, 分紅網, 金流代收, ATM, Skype, 一元簡訊, IPEVO, 影城, movie, 星座命理, 娛樂, 寵物派, 股市, 下載, toget, 找房子, house, 電子報, epaper, 交友, 家族, 貼圖, 新聞, 網路開店, 電影, 居家生活, 通訊, 娛樂, 政治財經, 休閒, 體育, 影視, 攝影寫真, 觀光, 旅遊, 網路家庭, 貼圖, 露天拍賣, 理財投資, 24小時購物, 影評文章, 達人部落格, 買房子, 居家佈置, 新成屋, 預售屋, 室內設計, 美食, 相片有話說, 相片加註, 外拍, 達人文章, 預告片, 新片預告, 電影時刻表, 紫微運勢, 地圖, map, 健康樂活, 免費軟體, 虛擬主機, 買網址, 學習進修, 彩妝保養, 討論區, 政經, 藝文, 人文抒情, 流行時尚, 廣告刊登, 免費撥接, 遊戲" />
+    <meta name="description" content="PChome網路家庭(8044-tw)是台灣最大的電子商務集團，2015年公司合併營收金額達新台幣228.8億元，2005年1月PChome在台灣掛牌上櫃，旗下擁有台灣最大B2C網站PChome24h購物和C2C第一名網站露天拍賣等網路公司。" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="revised" content="12/17/2018" />
+    <meta name="application-name" content="PChome Online 網路家庭" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="21d1d17e-021a-40f1-9385-3fed75d0fffe.png" />
+    <meta property="og:title" content="PChome Online網路家庭首頁" />
+    <meta property="og:url" content=" https://www.pchome.com.tw/" />
+    <meta property="og:description" content="PChome網路家庭 (8044-tw )是台灣最大的電子商務集團，2014年公司自結合併營收金額達198億元，2005年1月PChome在台灣掛牌上櫃,，旗下擁有台灣最大B2C網站PChome24h購物和C2C第一名網站露天拍賣等網路公司。" />
+    <meta property="og:image" content="https://www.pchome.com.tw/img/pchomelogo_fb.jpg" />
+    <meta property="og:site_name" content="PChome Online網路家庭" />
+
+    <link rel="icon" href="/favicon.ico?v=1.0" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico?v=1.0" />
+
+    <link rel="apple-touch-icon" href="touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152.png" />
+    <link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosanstc.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Prompt:500">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" />
+	<link rel="stylesheet" href="css/style.min.css?20190528">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+	<script src="https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.20.4_3dc5474a75410cb768741e402b80d908_min.js"></script>
+
+	<!-- head:js -->
+	<!-- endinject -->
+    <!--- ORI -->
+    <script language="JavaScript" type="text/JavaScript" src="/js/index.js?20190528"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/js/jquery.cookie.js"></script>
+    <!--- ORI + NEW -->
+    <script language="JavaScript" type="text/JavaScript" src="/js/index_2019.js?20190528"></script>
+
+<script language="JavaScript" type="text/JavaScript">
+var searchF=['輕透隔離乳','抗菌濕紙巾','涼感袖套','舒緩噴霧','環保冰盒','健身心率環','防潮野餐墊','多用防盜鎖','登山杖','瑜珈滾輪 ',];
+var sidF=['19130815','19130816','19130817','19130818','19130819','19130820','19130821','19130822','19130823','19130824',];
+var urlF=['http://search.pchome.com.tw/search/?q=%E8%BC%95%E9%80%8F%E9%9A%94%E9%9B%A2%E4%B9%B3&ch=product','http://search.pchome.com.tw/search/?q=%E6%8A%97%E8%8F%8C%E6%BF%95%E7%B4%99%E5%B7%BE&ch=product','http://search.pchome.com.tw/search/?q=%E6%B6%BC%E6%84%9F%E8%A2%96%E5%A5%97&ch=product','http://search.pchome.com.tw/search/?q=%E8%88%92%E7%B7%A9%E5%99%B4%E9%9C%A7&ch=product','http://search.pchome.com.tw/search/?q=%E7%92%B0%E4%BF%9D%E5%86%B0%E7%9B%92&ch=product','http://search.pchome.com.tw/search/?q=%E5%81%A5%E8%BA%AB%E5%BF%83%E7%8E%87%E7%92%B0&ch=product','http://search.pchome.com.tw/search/?q=%E9%98%B2%E6%BD%AE%E9%87%8E%E9%A4%90%E5%A2%8A&ch=product','http://search.pchome.com.tw/search/?q=%E5%A4%9A%E7%94%A8%E9%98%B2%E7%9B%9C%E9%8E%96&ch=product','http://search.pchome.com.tw/search/?q=%E7%99%BB%E5%B1%B1%E6%9D%96&ch=product','http://search.pchome.com.tw/search/?q=%E7%91%9C%E7%8F%88%E6%BB%BE%E8%BC%AA%20&ch=product',];
+</script>    <title>PChome Online 網路家庭</title>
+<script>
+$(document).ready(function() {
+    // 集中設定 row3A mouseover 頁籤效果
+    //  tab-box  => row3A
+    $('.tab-box li').on( "mouseover", function() {
+        $('.tab-box li').attr('data-tab','normal');
+        $(this).attr('data-tab','active');
+
+        var act_idx = $(this).attr('data-tab-index');
+        // 切換編輯區塊
+        $(".row3A").each(function( index )
+        {
+            (act_idx != index )
+            ?$( this ).hide()
+            :$( this ).show()
+            ;
+        })
+    });
+
+    // scroll body to 0px on click
+    $('.gotop-box').click(function () {
+            $('body,html').animate({
+                    scrollTop: 0
+            }, 800);
+            return false;
+    });
+});
+
+</script>
+</head>
+<body>
+    <div class="wrapper rwd">
+        <div class="container">
+                <script language="javascript">
+        pad_width=1400;
+        pad_height=160;
+        pad_customerId="PFBC20190424002";
+        pad_positionId="PFBP201904260006S";
+        </script>
+        <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+            <!-- 頁首 -->
+            <div class="header-wrap">
+                <div class="super3D-box">
+                    <div class="super3D-page p1">
+                        <div class="small3D-box">
+                            <div class="small3D-page p1">
+                        <!-- 置頂導覽 -->
+                        <div class="topbar-wrap">
+                            <div class="topbar-box pos-relative">
+
+                                <!-- 上層 -->
+                                <div class="topbar-toprow txt-table w-full">
+
+                                    <!-- 區塊左 pchome logo area -->
+                                    <div class="txt-cell lt">
+                                        <div class="topbar-logo" data-icon="PChome">
+                                        
+                                            <a class="txt-inlineblock w-full h-full" href="counter.php?sid=7674441" target="blank">
+                                                <!--logoad start here -->
+                                                <div class="logoAD"><img src="https://w6.pchome.com.tw/img/20190621_350x90_logo.gif"></div>
+                                                <!--logoad end here -->
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <!-- 區塊中 pchome search & old version page link -->
+                                    <div class="txt-cell cm p-l8 pos-relative">
+
+                                        <!-- 搜尋開始 -->
+                                        <form name="search" method="get" action="https://wwwapi.pchome.com.tw/ShowPChomeApi.php" id="ecsearch" target="_blank">
+                                        <div class="txt-table search-box">
+                                            <div class="txt-cell">
+                                                <input class="p-lr8" type="search" value="" autocomplete="off"  name="q" placeholder="請輸入關鍵字或商品名">
+                                            </div>
+                                            <div class="txt-cell">
+                                                <div class="search-btn flt-right ali-middle">
+                                                    <em data-icon="searchMN"></em>
+                                                    <span>商品搜尋</span>
+                                                </div>
+                                            </div>
+                                            <input id="f" type="hidden" name="f" value="pchome">
+                                            <input type="hidden" name="type" value="16">
+                                            <input type="hidden" name="refhost" id="refhost" value="www.pchome.com.tw">
+                                        </div>
+                                        </form>
+                                    </div>
+
+                                    <!-- 區塊右 pchome tripple delight -->
+                                    <div class="txt-cell rt txt-left">
+                                        <div class="tripple-wrap">
+                                            <!-- 股市資訊 -->
+                                            <div id="istock">
+
+                                            </div>
+                                            <!-- 緊急警示 -->
+                                            <!-- <a href="#">
+                                                <div class="tripple-box flt-left alert">
+                                                    <span class="txt-center">地震</span>第135號地震報告<br>12/12 21:24
+                                                </div>
+                                            </a> -->
+                                            <!-- 空汙指標 -->
+                                            <div class="dyair">
+                                            <a>
+                                                <div class="tripple-box flt-left aqi txt-table">
+                                                    <span data-scale=""></span>
+                                                    <div class="txt-cell txt-left"></div>
+                                                </div>
+                                            </a>
+                                            </div>
+                                            <!-- 氣象報告 -->
+                                            <div class="dywhr">
+                                            <a>
+                                                <div class="tripple-box flt-left weather">
+                                                    <b class="txt-top"></b>
+                                                    <em data-icon=""></em>
+                                                    <span></span>
+                                                </div>
+                                            </a>
+                                            </div>
+                                            <!-- 窄版 登入畫面 -->
+                                            <!-- 隱藏menu -->
+                                            <div class="member_box" id="whoareyou_n">
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- 下層 -->
+                                <div class="topbar-bottomrow txt-table w-full">
+                                    <div class="txt-cell lt">
+                                        <div class="topbar-menubtn txt-noselect" onclick="$('.menu-link').fadeToggle(100).css('marginTop',$('.container').css('paddingTop'))"><em data-icon="moreC"></em>更多</div>
+                                        <script>
+                                        /*參考*/
+                                        $(document).mouseup(function(e){
+                                            var container = $(".morelink-list,.topbar-menubtn");
+                                            if (!container.is(e.target) && container.has(e.target).length === 0){
+                                                $('.menu-link').fadeOut(100);
+                                            }
+                                        });
+                                        </script>
+                                    </div>
+                                    <div class="txt-cell cm txt-left txt-top">
+                                        
+    <div class="topbar-menulist transition-all txt-noselect">
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967592','1')">線上購物</a></span>
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967593','1')">24h購物</a></span>
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967594','1')">購物中心</a></span>
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967646','1')">露天拍賣</a></span>
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967653','1')">商店街</a></span>
+        <span data-type="" data-counter=""><a style="cursor:pointer" onclick="left_base_menu('18967654','1')">個人賣場</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/3211903*https://www.pchomeec.tw/activity/AC27839340">日本代購</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/10440946*http://www.rakuya.com.tw/">買賣租屋</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/1874691*https://www.pchomepay.com.tw/">支付連</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/677*https://www.interpay.com.tw/">國際連</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/6676462*https://www.piapp.com.tw">Pi 拍錢包</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/16904339*https://pchometravel.com/">旅遊</a> • <a target="_blank" href="/counter/17218024*https://pchometravel.com/">機x酒</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/292057*http://4c.pchome.com.tw/campaign/mj/">線上麻將</a></span></div>
+    <div class="topbar-menulist transition-all txt-noselect">
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/647*http://mail.pchome.com.tw">信箱</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/579*http://news.pchome.com.tw/">新聞</a> • <a target="_blank" href="/counter/3738*http://news.pchome.com.tw/weather/">氣象</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/580*http://pchome.megatime.com.tw/">股市</a> • <a target="_blank" href="/counter/1144796*http://pchome.megatime.com.tw/hks/">港股</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/648*http://mypaper.pchome.com.tw/">個人新聞台</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/1174091*http://search.pchome.com.tw/">找東西</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/19055571*http://show.pchome.com.tw/">廣告刊登</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/920844*http://4c.pchome.com.tw/campaign/2016/emba/">EMBA課程</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/1404360*http://kaza.pchome.com.tw/?ref=pchome_ad">kaza隨拍</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/657*https://www.pchomeskype.com.tw/">Skype</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/922*https://www.lingvist.com.tw/">Lingvist</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/1000429*http://car.pchome.com.tw/">買車</a> • <a target="_blank" href="/counter/782*http://car.pchome.com.tw/dealer.html?id=13">查里程</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/794392*http://travel.pchome.com.tw/">旅行團</a> • <a target="_blank" href="/counter/18574928*http://travel.pchome.com.tw/knowledge/longweekend">連假</a></span>
+        <span data-type="" data-counter=""><a target="_blank" href="/counter/18974404*http://car.pchome.com.tw/active/2019/travelsafety/">汽車險推薦</a></span></div>                                    </div>
+                                    <div class="txt-cell rt">
+                                        <!-- 寬版 登入畫面 -->
+                                        <ul class="topbar-sitenav txt-right ali-middle" id="whoareyou_w">
+                                        </ul>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- 置頂導覽 END -->
+                            </div>
+                        </div>
+                <!-- 置頂輪播 -->
+                <div class="topslide-wrap">
+                    <div class="topslide-box pos-relative p-tb15 ">
+                        <div class="topslide-div pos-relative pos-center">
+                            <div class="topslide" data-autoplay="true">
+
+                                <!-- 第0則 -->
+                                <div class="topslide-page">
+                                    <!-- 24h購物 開始-->
+                                    <div class="ec24hShop slideinner-box p-16">
+                                        <div class="content-titlebox">
+                                            <a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1265547" class="topic-tag" data-cat="24h" data-name="24h購物"></a>
+                                            <a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270860" class="a-link topic-tit">每日特賣▼震動按摩槍超激省<span class="price"></span></a>
+                                        </div>
+                                        <div class="txt-table transition-all">
+                                            <div class="txt-cell">
+                                                <a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270859">
+                                                    <div class="photo-box p66">
+                                                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1A_0_0.jpg?t=1561107661">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="txt-cell txt-left p-l16">
+                                                <h5 class="p-tb8"><a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270861" class="a-link">瘋殺特賣▼無線藍牙耳機超低價$3999<br><span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270862" class="a-link">瘋殺特賣▼東元DC直流遙控立扇$1280<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270863" class="a-link">瘋殺特賣▼中衛醫療口罩優惠降$399<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1270864" class="a-link">19生日慶：理膚寶水歡慶全場5折起<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="https://adcl.pchome.com.tw/clickAd2.html?q=6~pchome_default~1265548" class="a-link">6月銀行最高回饋6000<span class="price"></span></a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 24h購物 結束-->
+                                </div>
+        <!-- 第三則 -->
+        <div class="topslide-page">
+            <!-- 輪播新聞 開始-->
+            <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797459624633006.html">
+                <div class="hotNews slideinner-box">
+                    <div class="photo-box img-top image-mask">
+                        <span class="image-gradient"></span>
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1C_2_0.jpg?t=1561107661">
+                        <div class="image-txt-wrap">
+                            <h3 class="image-txt">《第九分局》網友封邱澤台版「康斯坦汀」化身「通靈神探」持雙槍打鬼！</h3>
+                            <h6 class="image-txt p-t8">由全能製作股份有限公司、華文創股份有限公司、樂到家國際娛樂股份有限公司與滿滿額娛樂股份有限公司出品，金牌製作人王鈞、資深電影監製葉如芬、陳鴻元三人攜手聯合監製，<br style="color: rgb(76, 76, 76); font-family: Arial, &quot;Noto Sans TC&quot;, 微軟正黑體, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);"></h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <!-- 輪播新聞 結束-->
+        </div><div class="topslide-page"><iframe src="https://pchome.megatime.com.tw/iframe_index.html" width="700" height="290" frameborder="0" scrolling="no"></iframe></div>
+                                <!-- 第2則 -->
+                                <div class="topslide-page">
+                                    <!-- 新安東京海上產險 開始-->
+                                    <div class="ec24hShop slideinner-box p-16">
+                                        <div class="content-titlebox">
+                                            <a href="http://car.pchome.com.tw/news.html" class="topic-tag" data-cat="24h" data-name="車訊新聞"></a>
+                                            <a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text" class="a-link topic-tit">智慧方向盤，讓行車體驗升華成藝術<span class="price"></span></a>
+                                        </div>
+                                        <div class="txt-table transition-all">
+                                            <div class="txt-cell">
+                                                <a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text">
+                                                    <div class="photo-box p66">
+                                                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1A_2_0.jpg?t=1561107661">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="txt-cell txt-left p-l16">
+                                                <h5 class="p-tb8"><a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text#nav1" class="a-link">休眠模式防繼電器或專業設備獲取鑰匙訊號<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text#nav2" class="a-link">手機就是專屬車輛管家，替您看好您的愛車<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text#nav3" class="a-link">變形金剛？FORD 全新設計車門可完全卸下<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text#nav4" class="a-link">總是覺得方向盤配置彆扭？自行按喜好設定<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://car.pchome.com.tw/active/2019/carkey/?utm_source=pchome&utm_medium=content&utm_campaign=carkey&utm_content=text#nav5" class="a-link">參與汽車未來式，留資料抽 Focus 模型車<span class="price"></span></a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 新安東京海上產險 結束-->
+                                </div>
+                                <!-- 第1則 -->
+                                <div class="topslide-page">
+                                    <!-- 旅行團 開始-->
+                                    <div class="ec24hShop slideinner-box p-16">
+                                        <div class="content-titlebox">
+                                            <a href="http://travel.pchome.com.tw/expert" class="topic-tag" data-cat="24h" data-name="旅遊勝地"></a>
+                                            <a href="http://travel.pchome.com.tw/expert/29/monograph/13119" class="a-link topic-tit">理想大地全包假期 打造台灣綠色Club med<span class="price"></span></a>
+                                        </div>
+                                        <div class="txt-table transition-all">
+                                            <div class="txt-cell">
+                                                <a href="http://travel.pchome.com.tw/expert/29/monograph/13119">
+                                                    <div class="photo-box p66">
+                                                        <img data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row1A_1_0.jpg?t=1561107661">
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="txt-cell txt-left p-l16">
+                                                <h5 class="p-tb8"><a href="http://travel.pchome.com.tw/expert/34/monograph/13107" class="a-link">時速4公里的旅行－徒步環島44天<br><span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://travel.pchome.com.tw/expert/29/monograph/13099" class="a-link">基隆特色美食節！感受基隆好「食」力<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://travel.pchome.com.tw/expert/35/monograph/13096" class="a-link">日本土合館公園繡球花季美侖美奐<br><span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://travel.pchome.com.tw/expert/34/monograph/13120" class="a-link">前往北韓或許只需先丟下所有成見<span class="price"></span></a></h5>
+                                                <h5 class="p-tb8"><a href="http://travel.pchome.com.tw/expert/34/monograph/13108" class="a-link">旅遊達人的東京上野私房美食推薦<span class="price"></span></a></h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- 旅行團 結束-->
+                                </div>
+        <!-- 第三則 -->
+        <div class="topslide-page">
+            <!-- 輪播新聞 開始-->
+            <a href="https://news.pchome.com.tw/fashion/marie/20190619/index-56093625813909239021.html">
+                <div class="hotNews slideinner-box">
+                    <div class="photo-box img-top image-mask">
+                        <span class="image-gradient"></span>
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1C_3_0.jpg?t=1561107661">
+                        <div class="image-txt-wrap">
+                            <h3 class="image-txt">「避孕藥還可生髮、豐胸？」破解7大錯誤迷思！原來不只能避孕，還有這些意想不到的好處<br></h3>
+                            <h6 class="image-txt p-t8">用避孕藥洗頭會讓頭髮亮黑的說法，完全毫無醫學根據。避孕藥主要成分為雌激素及黃體素，用來洗頭反而會導致皮膚出現萎縮的現象，恐怕得不償失。長白頭髮的原因，除了年齡及遺傳外，不良生活習慣導致...</h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <!-- 輪播新聞 結束-->
+        </div>
+        <!-- 第三則 -->
+        <div class="topslide-page">
+            <!-- 輪播新聞 開始-->
+            <a href="http://mypaper.pchome.com.tw/hooper88/post/1378979585">
+                <div class="hotNews slideinner-box">
+                    <div class="photo-box img-top image-mask">
+                        <span class="image-gradient"></span>
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1C_1_1.jpg?t=1561107661">
+                        <div class="image-txt-wrap">
+                            <h3 class="image-txt">倉促道別，黯然退場的《X戰警：黑鳳凰》</h3>
+                            <h6 class="image-txt p-t8">計畫永遠趕不上現實的變化，迪士尼在2019上半年將福斯影業併購後，確定要將X戰警收編至漫威宇宙之中，至於從2000年就推出的「X戰警」系列電影，則是下台一鞠躬的正式終結，原先蓄勢待發的...</h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <!-- 輪播新聞 結束-->
+        </div>
+        <!-- 第三則 -->
+        <div class="topslide-page">
+            <!-- 輪播新聞 開始-->
+            <a href="https://news.pchome.com.tw/living/nownews/20190621/index-56108520057690207009.html">
+                <div class="hotNews slideinner-box">
+                    <div class="photo-box img-top image-mask">
+                        <span class="image-gradient"></span>
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1C_0_0.jpg?t=1561107661">
+                        <div class="image-txt-wrap">
+                            <h3 class="image-txt">長榮「突襲式」罷工旅客焦慮 台大醫師提關鍵性罷工解藥<br></h3>
+                            <h6 class="image-txt p-t8">長榮航空昨（ 20 ）日與桃園市空服員職業工會第 3 次勞資協商破局，工會即刻宣布下午 4 時啟動罷工行動。面對空服員發起突襲罷工，長榮航空祭出了「暫停發放年終、不調薪、停發員工及其眷屬優惠機票」的反制措施。<br style="color: rgb(76, 76, 76); font-family: Arial, &quot;Noto Sans TC&quot;, 微軟正黑體, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);"></h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <!-- 輪播新聞 結束-->
+        </div>
+        <!-- 第四則 -->
+        <div class="topslide-page">
+            <!-- 輪播個人新聞台 開始-->
+            <a href="http://pchome.megatime.com.tw/news/cat1/20190621/15610873839912422003.html">
+                <div class="hotBlog slideinner-box">
+                    <div class="photo-box image-mask">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row1D_0_0.jpg?t=1561107661">
+                        <div class="image-txt-wrap info">
+                            <h3 class="image-txt">【台股盤中】台積電鴻海領漲 突破10800點</h3>
+                            <h6 class="image-txt">美股大漲，標準普爾500指數創歷史新高，台股今天在台積電(2330)與鴻海(2317)股價同步走揚帶動下，大盤指數持續攀高，突破10800點關卡。<br style="color: rgb(37, 37, 37); font-family: 微軟正黑體, &quot;Microsoft JhengHei&quot;, Arial, Helvetica, sans-serif, verdana; font-size: 16px; background-color: rgb(255, 255, 255);"></h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <!-- 輪播個人新聞台 結束-->
+        </div>                            </div>
+
+                            <!-- 左右按鈕 -->
+                            <div class="topslide-btn prev transition icon-prev"></div>
+                            <div class="topslide-btn next transition icon-next"></div>
+                        </div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    /* 參考 */
+                    /* 首頁 7+1 輪播 */
+                    /****************************
+                        autoplay        (自動播)
+                        autoplaySpeed   (間隔時間)
+                        dots            (導覽圓點)
+                        speed           (換頁速度)
+                        prevArrow       (往前一頁)
+                        nextArrow       (往後一頁)
+                        draggable       (拖曳)
+                        infinite        (無限循環)
+                        centerMode      (畫面置中)
+                        slidesToShow    (顯示頁數)
+                        centerPadding   (各頁間距)
+                        slidesToScroll  (捲動頁數)
+                    *****************************/
+                    $(document).ready( function(){
+                        var topslide            =$(".topslide");
+                        var topslide_prev       =$('.topslide-btn.prev');
+                        var topslide_next       =$('.topslide-btn.next');
+                        var topslide_auto       =$(".topslide").attr('data-autoplay').toLowerCase()=='true'?true:false;
+                        var topslide_timeout    =5000;
+                        topslide.slick({
+                            initialSlide    :1, // 從區塊2(中央)開始，因為區塊1 是尾巴
+                           // autoplay        :topslide_auto,
+                            autoplay        :topslide_auto,
+                            autoplaySpeed   :topslide_timeout,
+                            dots            :false,
+                            speed           :1500,
+                            prevArrow       :topslide_prev,
+                            nextArrow       :topslide_next,
+                            draggable       :true,
+                            infinite        :true,
+                            centerMode      :true,
+                            slidesToShow    :3,
+                            centerPadding   :'0',
+                            slidesToScroll  :1
+                        });
+                    });
+                </script>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 內容區 -->
+            <div class="content-wrap p-16">
+
+                <!-- 主資訊 -->
+                <!-- 內容 主要輪播 -->
+                <div class="content-box primaryPush p-b16">
+                    <div class="rt flt-right">
+                        <!-- 找東西搜尋開始 -->
+                        <div class="txt-table findsearch-box">
+                            <div class="txt-cell lf">找東西</div>
+                            <div class="txt-cell rt">
+                                <input type="search" value="" class="inp_txt" autocomplete="off" placeholder="" id="searchF">
+                                <input type="hidden" id="searchFsid" value="18953338">
+                                <span type="submit" class="icon-searchFD" id="pchomeSearch"></span>
+                                <span class="icon-kwFD"></span>
+                            </div>
+                        </div>
+                        <!-- 找東西搜尋結束 -->
+                        <!-- 右欄廣告開始 -->
+                        <div class="p-t16">
+                            <div class="ad-box">
+                                                            <!--300x250-->
+                                <script language="javascript">
+                                pad_width=300;
+                                pad_height=250;
+                                pad_customerId="PFBC20190424002";
+                                pad_positionId="PFBP201904240004C";
+                                </script>
+                                <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                            </div>
+                        </div>
+                        <!-- 右欄廣告結束 -->
+                    </div>
+
+                    <div class="p-r16" style="margin-right:300px">
+                        <!-- 獨家推薦商品 header -->
+                        <div class="content-titlebox ali-middle">
+                            <em></em><span>獨家推薦商品</span>
+                        </div>
+
+                        <!-- 主要輪播 內容開始 -->
+
+                            <!-- 輪播卡片 開始 -->
+                            <div class="primeslide" data-autoplay="true">
+
+        <!-- 第0頁 -->
+        <div class="txt-table w-full push-box txt-left m-t16">
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec5" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_0_0.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">40宜-別再留戀美人尖告別M型禿<br></h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec2" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_0_1.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">30宜-下班後營業,深夜法式甜點</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec3" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_0_2.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">30宜-說走就走<br style="color: rgb(19, 19, 18); font-family: Arial, &quot;Noto Sans TC&quot;, �L�n������, sans-serif; font-size: 18px; font-weight: 400; background-color: rgb(255, 255, 255);">一個人去旅行</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec3" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_0_3.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">50宜-打個電話關心爸媽</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec4" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_0_4.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">30宜-對抗發炎,最需要把關腸道</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        </div>
+        <!-- 第1頁 -->
+        <div class="txt-table w-full push-box txt-left m-t16">
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec3" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_1_0.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">50宜-和爸媽一起天天溫補有元氣</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec2" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_1_1.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">40宜-丟掉原生家庭模式,創新吧</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec6" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_1_2.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">30宜-避開百病從減鹽開始<br></h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec4" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_1_3.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">ALL宜-保護車上的家人和毛小孩</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        <div class="txt-cell txt-top">
+        <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/?utm_source=pchome&utm_medium=ad_index#ec1" class="a-link">
+            <div class="photo-box p100">
+                <img src="https://w6.pchome.com.tw/img/index_2019/img_row2A_1_4.jpg?t=1561107661" data-region="horizontal">
+            </div>
+            <h6 class="p-tb16">40宜-錢要花對地方,別只存銀行</h6>
+            <p class="price"><br class="br-break"></p>
+        </a>
+        </div>
+        </div>                            </div>
+                            <!-- 輪播卡片 結束 -->
+
+                            <script type="text/javascript">
+                                /* 參考 */
+                                /* 頁中 5 x 6 輪播 */
+                                /****************************
+                                    autoplay        (自動播)
+                                    autoplaySpeed   (間隔時間)
+                                    dots            (導覽圓點)
+                                    speed           (換頁速度)
+                                    prevArrow       (往前一頁)
+                                    nextArrow       (往後一頁)
+                                    draggable       (拖曳)
+                                    infinite        (無限循環)
+                                    centerMode      (畫面置中)
+                                    slidesToShow    (顯示頁數)
+                                    centerPadding   (各頁間距)
+                                    slidesToScroll  (捲動頁數)
+                                *****************************/
+                                $(document).ready( function(){
+                                    var primeslide            =$(".primeslide");
+                                    var primeslide_auto       =$(".primeslide").attr('data-autoplay').toLowerCase()=='true'?true:false;
+                                    var primeslide_timeout    =5000;
+                                    primeslide.on('init', function(event, slick){
+                                        $(".primeslide .txt-table").css('display:inherit');
+                                    });
+                                    primeslide.slick({
+                                        //autoplay        :primeslide_auto,
+                                        autoplay        :false,
+                                        autoplaySpeed   :primeslide_timeout,
+
+                                        dots            :true,
+                                        dotsClass       :'push-card-indicator',
+                                        speed           :1000,
+                                        draggable       :true,
+                                        infinite        :true,
+                                        centerMode      :true,
+                                        slidesToShow    :1,
+                                        centerPadding   :'0',
+                                        slidesToScroll  :1
+                                    });
+                                });
+                            </script>
+                        <!-- 主要輪播 內容結束 -->
+
+
+
+                    </div>
+                </div>
+                <!-- 聯播網廣告 -->
+                <div data-display="block" class="adbell-box txt-center m-b16">
+                    <div class="ad-box txt-inlineblock">
+                                            <!--970x250-->
+                        <script language="javascript">
+                        pad_width=970;
+                        pad_height=250;
+                        pad_customerId="PFBC20190424002";
+                        pad_positionId="PFBP201904240003C";
+                        </script>
+                        <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                    </div>
+                    <div class="ad-box flt-right p-l16">
+                                            <!--300x250-->
+                        <script language="javascript">
+                        pad_width=300;
+                        pad_height=250;
+                        pad_customerId="PFBC20190424002";
+                        pad_positionId="PFBP201904260001C";
+                        </script>
+                        <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                    </div>
+                </div>
+                <!-- 內容 推播專區 -->
+                <div class="content-box featurSection p-b16 transition-all">
+
+                    <div class="txt-table">
+
+                        <div class="p-r16">
+                            <!-- 推播專區 內容開始 -->
+                                <!-- 推播標籤開始 -->
+
+                                <ul class="tab-box txt-table">
+
+            <li class="txt-cell " data-tab-index="0" data-tab="active"><a href="https://news.pchome.com.tw/cat/politics/hot">政治</a></li>
+            <li class="txt-cell " data-tab-index="1" data-tab=""><a href="https://news.pchome.com.tw/cat/society/hot">社會</a></li>
+            <li class="txt-cell " data-tab-index="2" data-tab=""><a href="https://news.pchome.com.tw/cat/living/hot">生活</a></li>
+            <li class="txt-cell " data-tab-index="3" data-tab=""><a href="https://news.pchome.com.tw/cat/entertainment/hot">娛樂</a></li>
+            <li class="txt-cell " data-tab-index="4" data-tab=""><a href="https://news.pchome.com.tw/cat/sport/hot">體育</a></li>
+            <li class="txt-cell " data-tab-index="5" data-tab=""><a href="https://news.pchome.com.tw/cat/car/hot">汽車</a></li>
+                                </ul>
+                                <!-- 推播標籤結束 -->
+
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/politics/nownews/20190621/photo-56107226527045207001.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        國民黨初選誰勝出？高嘉瑜斷言「出線者」 曝決勝關鍵</h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/nownews/20190621/photo-56106989447216207001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">韓國瑜參選挨譙！雞排妹一語「護航」酸度爆表</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/cdnews/20190621/photo-56105049376723250001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">吳敦義：蔡英文講話越來越離譜</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/greatnews/20190621/photo-56104748233560209001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">香港總商會台灣小組拜會高雄市府<br></h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/cdnews/20190621/photo-56104648029818250001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">國安法修正 國民黨：民進黨讓言論自由漸漸窒息<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/greatnews/20190620/photo-56104604332783209001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">新造140公尺「台船15號」大型駁船於基隆港試車</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/politics/gpwb/20190620/photo-56104448086170201001.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_0_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">憲指部勤務連用品嵌入式設計 美觀實用<br></h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/society/taiwanhot/20190621/photo-56107232954663221002.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        大學生愛車汽油用盡熄火陷困境 熱心警提油相助</h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/nownews/20190620/photo-56103544878768207002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">阿羅哈女大生「畢業了」 父286字淚別：讓爸爸再抱抱妳</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/greatnews/20190621/photo-56108024328520209002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">電風扇如何選購及安心使用</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/taiwanhot/20190621/photo-56107232690687221002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">北港巡警勇逮闖空門慣竊 警長立即表揚<br></h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/mypeople/20190621/photo-56104927885015219002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">內湖警分局長帶隊 擴大臨檢防鬥毆<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/twpowernews/20190620/photo-15610448332784747002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">華山愛老人運動會 老小「憶」起上學「趣」<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/society/greatnews/20190620/photo-56104280488383209002.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_1_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">西螺鎮撥交公務腳踏車 鄰長代步落實基層服務</h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/living/nownews/20190621/photo-56107703037685207009.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        〈達人帶路〉買賣雙方都精明 光埔特區漲跌角力</h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/greatnews/20190621/photo-56107772370923209009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">竹市推出「新竹舊城好食祭」<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/tcnews/20190621/photo-56107909924128280009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">注射骨水泥 重建脊椎壓迫性骨折</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/ftv/20190621/photo-15610754996350819009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">秋行軍蟲大舉入侵泰國 玉米3月收成全泡湯<br></h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/nownews/20190621/photo-56107511357639207009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">超商買新雪糕！「結帳99元」被嚇傻 原因曝光瘋扛整箱<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/nownews/20190621/photo-56107522496449207009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">〈商圈報報〉竹科驚人消費力 全台最大迪卡儂在這<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/living/cardu/20190621/photo-15610746366615941009.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_2_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">久占停車格強制拖吊 台北市7月起實施新制<br></h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797384448433006.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        電影《我的青春都是你》女主角宋芸樺身穿Maje 宣傳訪問<br></h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797419329433006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">HBO Asia與日本Hulu原創大製作《THE HEAD》</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797368744833006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">藝術家李明道全新力作！快來和MOLI和MASI拍照打卡！</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797285824633006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">PUMA漂亮寶貝 Selena 展露曲線</h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/wownews/20190621/photo-15610797030717933006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">《誰來晚餐》陳美鳳遭阿嬤爆料與劉尚謙約會八卦</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/nownews/20190621/photo-56107881783831207006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">曾治豪拍「李宗瑞」電影 揭賀一航生前質問他說<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/entertainment/nownews/20190621/photo-56107554607340207006.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_3_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">「翔忻偷吃」11年前早知道 浩子好神警告過<br></h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/sport/nownews/20190621/photo-56108089245927207007.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        兩千安只差2支 恰恰上半季先休養<br></h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190621/photo-56104640527407209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">境外生划龍舟「義守會贏」隊奪銅<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190621/photo-56104964749323209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">全臺唯一國際認證場地 舉辦統一規格賽 3戰拚積分<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190621/photo-56105036311005209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">新加坡全球品牌策劃大賽總決賽出爐 南臺科大團隊榮獲季軍</h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190621/photo-56104676241829209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">2019農村產業工藝推廣博覽會在科工館登場</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190621/photo-56104640864351209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">臺中歌劇院「NTT放映室」 邀民眾在星空下與經典相遇<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/sport/greatnews/20190620/photo-56104568329543209007.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_4_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">文學玩很瘋！FUN暑假假玩臺文館</h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->
+        <!-- 標籤內容開始 -->
+        <div class="txt-table tagpost-box p-t16 row3A" style="display:none">
+            <!-- 左欄大圖片開始 -->
+            <div class="txt-cell txt-top lf">
+                <a href="https://news.pchome.com.tw/car/liancar/20190621/index-56105873993271215018.html">
+                <div class="photo-box img-top p100 image-mask">
+                    <span class="image-gradient"></span>
+                    <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_0.jpg?t=1561107661">
+                    <div class="image-txt-wrap">
+                        <h3 class="image-txt txt-left">
+                        大改款MAZDA 6預約2022年發表，標配後驅與直六，選配四傳及48V</h3>
+                    </div>
+                </div>
+                </a>
+            </div>
+            <!-- 左欄大圖片結束 -->
+            <!-- 中欄圖片專區開始 -->
+            <div class="txt-cell txt-top cm">
+                <!-- 第一排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/liancar/20190620/index-56104289523117215018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_1.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">Honda Civic FD客製「Hyper Wide」寬體版<br></h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/liancar/20190620/index-56102735996340215018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_2.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">KYMCO的世界藍圖都在柯勝峯腦中</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/7car/20190620/index-15609996001499236018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_3.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">改善無號誌路口安全 台中市大安區導入紅外線偵測來車<br></h6>
+                      </a>
+                    </div>
+                </div>
+                <!-- 第二排 -->
+                <div class="txt-table txt-left">
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/7car/20190620/index-15609960004537736018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_4.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">車禍件數大降 21% 高雄交通違規大執法成效顯著將續辦</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/7car/20190620/index-15609924006525136018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_5.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">針對新興市場的 7 人座 Renault Triber 於印度首發</h6>
+                      </a>
+                    </div>
+                    <div class="txt-cell txt-top p-16">
+                      <a href="https://news.pchome.com.tw/car/liancar/20190620/index-56103287522953215018.html" class="a-link">
+                        <div class="photo-box img-top p71">
+                            <img class="top" data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3A_5_6.jpg?t=1561107661">
+                        </div>
+                        <h6 class="p-t16">PGO TIGAR 200 休旅旗艦11.73萬元辦到好</h6>
+                      </a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中欄圖片專區結束 -->
+        </div>
+        <!-- 標籤內容結束 -->                            <!-- tagpost-box -->
+                            <script type="text/javascript">
+                                // 預設哪個頁籤的內容
+                                var idx=0;
+                                if($(".row3A:eq("+ idx +")").length >0)
+                                {
+                                    $('.tab-box li').attr('data-tab','normal');
+                                    $(".tab-box li:eq("+ idx +")").attr('data-tab','active');
+                                    $(".tab-box li:eq("+ idx +")").attr('data-tab-index');
+
+                                    $(".row3A:eq("+ idx +")").show();
+                                }
+                            </script>
+                            <!-- 推播專區 內容結束 -->
+                        </div>
+
+                        <div class="txt-cell txt-left txt-top rt">
+                            <!-- 右欄影音專區開始 -->
+                            <!-- 影音時尚 header -->
+                            <div class="content-titlebox ali-middle">
+                                <em></em><span>影音 / 時尚</span>
+                            </div>
+
+            <div class="txt-table cast-box p-16">
+                <div class="txt-cell txt-left txt-top">
+                     <h6><a href="https://news.pchome.com.tw/entertainment/nownews/20190621/index-56108253667412207006.html" class="a-link">為何謝忻致電王少偉哭訴？「悲情真相」曝光<br></a></h6>
+                </div>
+                <div class="txt-cell txt-top p-l16 rt">
+                  <a href="https://news.pchome.com.tw/entertainment/nownews/20190621/index-56108253667412207006.html">
+                    <div class="photo-box p66 image-mask">
+                        <div class="image-icon-container icon-play-vd"></div>
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3B_0_0.jpg?t=1561107661">
+                    </div>
+                  </a>
+                </div>
+            </div>
+            <div class="txt-table cast-box p-16">
+                <div class="txt-cell txt-left txt-top">
+                     <h6><a href="https://news.pchome.com.tw/politics/pts/20190620/index-15609600009032508001.html" class="a-link">爭取台商回流 政院拍板「投資台灣三大方案」</a></h6>
+                </div>
+                <div class="txt-cell txt-top p-l16 rt">
+                  <a href="https://news.pchome.com.tw/politics/pts/20190620/index-15609600009032508001.html">
+                    <div class="photo-box p66 image-mask">
+                        <div class="image-icon-container icon-play-vd"></div>
+                        <img data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row3B_0_1.jpg?t=1561107661">
+                    </div>
+                  </a>
+                </div>
+            </div>
+            <div class="txt-table cast-box p-16">
+                <div class="txt-cell txt-left txt-top">
+                     <h6><a href="https://news.pchome.com.tw/fashion/bella/20190619/index-56092836615506237021.html" class="a-link">Netflix力捧鮮肉被評為新一代天菜！除《魯妹》、《愛的過去進行式》外，新作將推出<br></a></h6>
+                </div>
+                <div class="txt-cell txt-top p-l16 rt">
+                  <a href="https://news.pchome.com.tw/fashion/bella/20190619/index-56092836615506237021.html">
+                    <div class="photo-box p66">
+                        
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3B_0_2.jpg?t=1561107661">
+                    </div>
+                  </a>
+                </div>
+            </div>
+            <div class="txt-table cast-box p-16">
+                <div class="txt-cell txt-left txt-top">
+                     <h6><a href="https://news.pchome.com.tw/fashion/marie/20190619/index-56093606315657239021.html" class="a-link">日本大推的纖體酵素有用嗎？營養師教你5招挑選、聰明吃法，有效養成「小纖女」<br></a></h6>
+                </div>
+                <div class="txt-cell txt-top p-l16 rt">
+                  <a href="https://news.pchome.com.tw/fashion/marie/20190619/index-56093606315657239021.html">
+                    <div class="photo-box p66">
+                        
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row3B_0_3.jpg?t=1561107661">
+                    </div>
+                  </a>
+                </div>
+            </div>                            <!-- 右欄影音專區結束 -->
+                        </div>
+                    </div>
+                </div>
+                <!-- 內容 焦點快報 -->
+                <div class="content-box has-border newsFocus transition-all">
+
+                    <div class="txt-table">
+                        <div class="txt-row">
+                            <div class="txt-cell txt-left txt-top lf">
+                                <!-- 焦點快報 左欄內容開始 -->
+                                <!-- 焦點快報 header -->
+                                <div class="content-titlebox ali-middle">
+                                    <em></em><span>焦點快報</span>
+                                </div>
+                                <div class="item-list p-lr32 p-b16 txt-left">
+
+            <h5 class="txt-black p-tb16 p-l16">
+                <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/#ec1" class="a-link ">根據人力銀行最新調查，3成上班族不婚不生小孩，薪水與長工時最大兇手</a>
+            </h5>
+    
+            <h5 class="txt-black p-tb16 p-l16">
+                <a href="http://4c.pchome.com.tw/campaign/2019/goodlife/#ec2" class="a-link ">30歲的人覺得好爽可以不當上班族，40歲的人大叫終於擺脫討人厭老闆去創業<br></a>
+            </h5>
+                                        <!-- 焦點快報 左欄廣告開始 -->
+                                    <div class="p-tb16 p-l16">
+                                        <div class="ad-box">
+                                                                                        <!--300x250-->
+                                            <script language="javascript">
+                                            pad_width=300;
+                                            pad_height=250;
+                                            pad_customerId="PFBC20190424002";
+                                            pad_positionId="PFBP201904260001C";
+                                            </script>
+                                            <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                                        </div>
+                                      <a href="http://show.pchome.com.tw/" target="_blank">
+                                        <div class="ad-publish p-lr16 p-tb8">
+                                            <div class="header"><p>廣告刊登</p></div>
+                                            <h5 class="headline">免開戶費‧免設定費‧免服務費</h5>
+                                            <p class="sponsor">PChome 聯播網</p>
+                                        </div>
+                                      </a>
+                                    </div>
+                                    <!-- 焦點快報 左欄廣告結束 -->
+
+                                </div>
+                                <!-- 焦點快報 左欄內容結束 -->
+                            </div>
+
+                            <div class="txt-table">
+                            <!-- 焦點快報 中右欄內容開始 -->
+                            <!-- 中欄內容開始 -->
+                            <div class="txt-cell txt-left txt-top cm">
+
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">最新文章</b>
+                    <h2 class="txt-black p-tb8"><a href="http://mypaper.pchome.com.tw/encountert/post/1378950947" class="a-link">
+ Cairns運動好去處-海岸公園林蔭大道</a></h2>
+                    <p class="p-tb8">
+ 沒想到這附近超美的，不是簡單的「公園」，有海景、山景，也有不同的林蔭大道、泳池、戲水區、BBQ區..。</p>
+
+                    <a href="http://mypaper.pchome.com.tw/encountert/post/1378950947">
+                    <div class="photo-box p75">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row4B_0_0.jpg?t=1561107661">
+                    </div>
+                    </a>
+            </div>                            </div>
+                                <!-- 中欄內容結束 -->
+                                <!-- 右欄內容開始 -->
+                            <div class="txt-cell txt-left txt-top rt">
+
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">好台推薦</b>
+                <h3 class="txt-black p-tb8"><a href="http://mypaper.pchome.com.tw/joehauz_mypaper/post/1378949348" class="a-link">
+ 李希特與瑪琳黛德麗之間的軼事</a></h3>
+                <div class="txt-table">
+                    <div class="txt-cell txt-left txt-top">
+                        <p class="p-r8">
+ 1992年五月16日在瑪琳黛德麗的葬禮上，李希特獻上500朵玫瑰；然後在當晚舉行了一場獻給黛德麗的紀念演奏會。在網路上看到這訊息之後，便搜尋有關他倆關係的資料，分享給愛樂諸友。</p>
+                    </div>
+                    <div class="txt-cell txt-left txt-top p-l8">
+                        <a href="http://mypaper.pchome.com.tw/joehauz_mypaper/post/1378949348">
+                        <div class="photo-box p75">
+                            <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row4C_0_0.jpg?t=1561107661">
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">哈燒文章</b>
+                <h3 class="txt-black p-tb8"><a href="http://mypaper.pchome.com.tw/660729/post/1378919820" class="a-link">
+ 蔬菜多多鍋巴香脆的韓式料理</a></h3>
+                <div class="txt-table">
+                    <div class="txt-cell txt-left txt-top">
+                        <p class="p-r8">
+ 今日餐點，韓式蔬菜石鍋拌飯！我覺得石鍋拌飯這道料理很好，可以讓孩子吃進很多很多的蔬菜！</p>
+                    </div>
+                    <div class="txt-cell txt-left txt-top p-l8">
+                        <a href="http://mypaper.pchome.com.tw/660729/post/1378919820">
+                        <div class="photo-box p75">
+                            <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row4C_0_1.jpg?t=1561107661">
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">活動訊息</b>
+                <h3 class="txt-black p-tb8"><a href="http://4c.pchome.com.tw/campaign/emba/post/75" class="a-link">在台灣網友每10次的購物行為中，約有近5次是透過網路通路購買。</a></h3>
+            </div>                            </div>
+                            <!-- 右欄內容結束 -->
+                            <!-- 焦點快報 中右欄內容結束 -->
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- 內容 人氣話題 -->
+                <div class="content-box has-border hottopic transition-all">
+
+                    <!-- 人氣話題 header -->
+                    <div class="content-titlebox ali-middle">
+                        <em></em><span>人氣話題</span>
+                    </div>
+
+                    <div class="txt-table">
+                        <div class="p-tb16 p-l16">
+
+            <!-- 人氣話題 內容開始 -->
+            <div class="bottopic-box">
+                <div style="width:54.5186%">
+                    <a href="https://news.pchome.com.tw/entertainment/nownews/20190621/index-56108556239933207006.html">
+                        <div class="photo-box img-top p66 flt-left">
+                            <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row5A_0_0.jpg?t=1561107661">
+                        </div>
+                    </a>
+                </div>
+                <div class="txt-cell txt-left p-l16">
+                    <h1 class="txt-black p-b16"><a href="https://news.pchome.com.tw/entertainment/nownews/20190621/index-56108556239933207006.html" class="a-link">慘！連遇華航、長榮罷工 主播氣炸：消費者任人宰割？</a></h1>
+                    <p class="p-b16">長榮空服員昨（20）日與資方協商破裂，當場宣布行使罷工權，長榮上下人仰馬翻，旅客成了最大犧牲者，前主播吳中純在臉書上透露，她原飛溫哥華的航班因罷工取消，好不容易盼到的長假因此泡湯，3年前曾遇上華航罷工的她，被親友虧「可以去買彩券」，她忍不住開炮：「為何消費者被當俎上肉，任人宰割？」吳中純說：「三年前華航罷工也被我遇到，全家被丟包在吉隆坡機場，好不容易擠到廉價航空才得以返家。華航、長榮罷工我都遇到，乘客何辜，有法可管嗎？為何消費者被當俎上肉，任人宰割。工會綁架乘客，要脅沒加入工會的空服員，工會權力為何可如此放大？」</p>
+                    <span class="txt-thin"></span>
+                </div>
+            </div>
+            <!-- 人氣話題 內容結束 -->                        </div>
+
+                        <div class="txt-cell txt-top w-332">
+                            <!-- 人氣話題 右欄廣告開始 -->
+                            <div class="flt-right p-16">
+                                <div class="ad-box">
+                                                                        <!--300x250-->
+                                    <script language="javascript">
+                                    pad_width=300;
+                                    pad_height=250;
+                                    pad_customerId="PFBC20190424002";
+                                    pad_positionId="PFBP201904260001C";
+                                    </script>
+                                    <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                                </div>
+                                <div class="ad-box m-t16">
+                                                                        <!--300x100-->
+                                    <script language="javascript">
+                                    pad_width=300;
+                                    pad_height=100;
+                                    pad_customerId="PFBC20190424002";
+                                    pad_positionId="PFBP201904260002C";
+                                    </script>
+                                    <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                                </div>
+                            </div>
+                            <!-- 人氣話題 右欄廣告結束 -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 內容 tpoicslider -->
+                <div class="content-box has-border topicslider">
+                    <div class="topicslide" data-autoplay="false">
+
+    <!-- 第0組 -->
+    <div class="txt-table transition-all">
+        <div class="txt-cell txt-top p-16">
+            <!-- 四欄輪播 內容開始 -->
+            <div class="topicslider-box txt-left">
+                <a href="https://news.pchome.com.tw/finance/nownews/20190621/photo-56107963343903207003.html" class="a-link">
+                    <div class="photo-box p66">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row5B0_0_0.jpg?t=1561107661">
+                        <b class="topic-tag" data-cat="finance" data-name="財經"></b>
+                    </div>
+                    <h4 class="txt-black p-tb16">傻眼！郭台銘股東會出場後無預警告假 會後才會再現身</h4>
+                </a>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/finance/nownews/20190620/index-56102164580168207003.html" class="a-link">郭台銘家中的超大120吋電視 群創將攜手夏普首發8K<br></a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/finance/nownews/20190620/index-56100869472415207003.html" class="a-link">CEO也要有KPI 上班族心中夢幻老闆「尤達大師」奪冠<br></a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/finance/nownews/20190620/index-56102143992665207003.html" class="a-link">美國下半年才可能降息 央行利率連12凍</a>
+                </h5></div>
+            <!-- 四欄輪播 內容結束 -->
+        </div>
+        <div class="txt-cell txt-top p-16">
+            <!-- 四欄輪播 內容開始 -->
+            <div class="topicslider-box txt-left">
+                <a href="https://news.pchome.com.tw/science/cnews/20190620/photo-56102501448511227005.html" class="a-link">
+                    <div class="photo-box p66">
+                        <img data-region="vertical" src="https://w6.pchome.com.tw/img/index_2019/img_row5B0_1_0.jpg?t=1561107661">
+                        <b class="topic-tag" data-cat="science" data-name="科技"></b>
+                    </div>
+                    <h4 class="txt-black p-tb16">【區塊鏈】加密貨幣圈商品觀察：比比特幣更具隱匿性的Zcash</h4>
+                </a>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/science/cna_business/20190620/index-15610028496273822005.html" class="a-link">士電：貿易戰中國事業群恐衰退 台灣成長可彌補<br></a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/science/cna_business/20190620/index-15610083112728022005.html" class="a-link">太陽能市場觀望 本週矽晶圓與電池報價持平</a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/science/cnews/20190620/index-56100681787910227005.html" class="a-link">為讓虛擬環境更真！Facebook宣布提供虛擬環境設計工具方便AI學習</a>
+                </h5></div>
+            <!-- 四欄輪播 內容結束 -->
+        </div>
+        <div class="txt-cell txt-top p-16">
+            <!-- 四欄輪播 內容開始 -->
+            <div class="topicslider-box txt-left">
+                <a href="https://news.pchome.com.tw/internation/gpwb/20190621/photo-56104718023164201011.html" class="a-link">
+                    <div class="photo-box p66">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row5B0_2_0.jpg?t=1561107661">
+                        <b class="topic-tag" data-cat="internation" data-name="國際"></b>
+                    </div>
+                    <h4 class="txt-black p-tb16">「博科聖地」攻擊奈軍基地 12死</h4>
+                </a>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/internation/cna/20190620/index-15610193344285818011.html" class="a-link">魚油魚粉出口 不利4000萬非洲民眾蛋白攝取</a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/internation/cna/20190620/index-15610206556007118011.html" class="a-link">日媒：時隔4年 俄羅斯航機侵入日本領空</a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/internation/cna/20190620/index-15610164530627418011.html" class="a-link">喜馬拉雅冰川融化加速 危及數億人水源</a>
+                </h5></div>
+            <!-- 四欄輪播 內容結束 -->
+        </div>
+        <div class="txt-cell txt-top p-16">
+            <!-- 四欄輪播 內容開始 -->
+            <div class="topicslider-box txt-left">
+                <a href="https://news.pchome.com.tw/healthcare/top1health/20190621/photo-15610811292699968012.html" class="a-link">
+                    <div class="photo-box p66">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row5B0_3_0.jpg?t=1561107661">
+                        <b class="topic-tag" data-cat="healthcare" data-name="健康"></b>
+                    </div>
+                    <h4 class="txt-black p-tb16">下背疼痛10年只能打止痛針…竟引流出椰子般大的肝膿瘍</h4>
+                </a>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/healthcare/top1health/20190620/index-15610230006253768012.html" class="a-link">秒懂肌膚！就診前做對這些事，醫師更能解決你的皮膚問題</a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/healthcare/twpowernews/20190620/index-15610223675905447012.html" class="a-link">揭神經內分泌腫瘤神秘面紗 男性比女性高？</a>
+                </h5>
+                <h5 class="p-tb16">
+                    <a href="https://news.pchome.com.tw/healthcare/top1health/20190620/index-15610212009581968012.html" class="a-link">小柔媽咪育兒趣 從小培養睡眠習慣有助孩子發育，更多了夫妻時間</a>
+                </h5></div>
+            <!-- 四欄輪播 內容結束 -->
+        </div>
+    </div>                    </div>
+                    <!-- 左右按鈕 -->
+                    <div class="topicslide-btn prev transition icon-prev"></div>
+                    <div class="topicslide-btn next transition icon-next"></div>
+                </div>
+
+                <script type="text/javascript">
+                    /* 參考 */
+                    /* 頁尾 4 x 4 輪播 */
+                    /****************************
+                        autoplay        (自動播)
+                        autoplaySpeed   (間隔時間)
+                        dots            (導覽圓點)
+                        speed           (換頁速度)
+                        prevArrow       (往前一頁)
+                        nextArrow       (往後一頁)
+                        draggable       (拖曳)
+                        infinite        (無限循環)
+                        centerMode      (畫面置中)
+                        slidesToShow    (顯示頁數)
+                        centerPadding   (各頁間距)
+                        slidesToScroll  (捲動頁數)
+                    *****************************/
+                    $(document).ready( function(){
+                        var topicslide         =$(".topicslide");
+                        var topicslide_prev    =$('.topicslide-btn.prev');
+                        var topicslide_next    =$('.topicslide-btn.next');
+                        var topicslide_auto    =$(".topicslide").attr('data-autoplay').toLowerCase()=='true'?true:false;
+                        var topicslide_timeout =5000;
+                        topicslide.on('init', function(event, slick){
+                            $(".topicslide .txt-table").css('display:inherit');
+                        });
+                        topicslide.slick({
+                            autoplay        :topicslide_auto,
+                            autoplaySpeed   :topicslide_timeout,
+                            dots            :false,
+                            speed           :1500,
+                            prevArrow       :topicslide_prev,
+                            nextArrow       :topicslide_next,
+                            draggable       :true,
+                            infinite        :true,
+                            centerMode      :false,
+                            slidesToShow    :1,
+                            centerPadding   :'0',
+                            slidesToScroll  :1
+                        });
+                    });
+                </script>
+
+                <!-- 內容 本日嚴選 -->
+                <div class="content-box has-border hotpick  newsFocus">
+                    <div class="txt-table">
+                        <div class="txt-row">
+                            <div class="txt-cell txt-top">
+
+                                <!-- 本日嚴選 header -->
+                                <div class="content-titlebox ali-middle">
+                                    <em></em><span>本日嚴選<small>HOT PICK</small></span>
+                                </div>
+
+                                <div class="txt-table">
+                                <!-- 焦點快報 中右欄內容開始 -->
+                                <!-- 中欄內容開始 -->
+                                <div class="txt-cell txt-left txt-top cm">
+
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">百萬車主省錢妙招</b>
+                    <h2 class="txt-black p-tb8"><a href="http://car.pchome.com.tw/active/2019tmnewa/05LexusInsurance/?utm_source=pchome&utm_medium=ad_index7-1" class="a-link">Lexus投保車險試算</a></h2>
+                    <p class="p-tb8">一推SUV車主第二年聰明省錢線上保，再推常南北奔波的辛苦上班族秒懂超額責任險與第三人責任險，最後提醒後座買家老闆們有些內行人才知道的細節，立刻了解GO</p>
+
+                    <a href="http://car.pchome.com.tw/active/2019tmnewa/05LexusInsurance/?utm_source=pchome&utm_medium=ad_index7-1">
+                    <div class="photo-box p75">
+                        <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row6B_0_0.jpg?t=1561107661">
+                    </div>
+                    </a>
+            </div>                                </div>
+                                    <!-- 中欄內容結束 -->
+                                    <!-- 右欄內容開始 -->
+                                <div class="txt-cell txt-left txt-top rt">
+
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">周末出遊推薦行程</b>
+                <h3 class="txt-black p-tb8"><a href="http://travel.pchome.com.tw/knowledge/walkingholiday" class="a-link">夏日北陸好好玩&nbsp;白川鄉合掌村</a></h3>
+                <div class="txt-table">
+                    <div class="txt-cell txt-left txt-top">
+                        <p class="p-r8">兼六園位於金澤市兼六町，占地約１１萬平方公尺，於１６７６年加賀藩五藩主前田綱紀所建造而成的一座蓮池御亭和庭園，做為居城金澤城的外庭，是日本江戶時代林泉迴遊式庭園的代表...<br></p>
+                    </div>
+                    <div class="txt-cell txt-left txt-top p-l8">
+                        <a href="http://travel.pchome.com.tw/knowledge/walkingholiday">
+                        <div class="photo-box p75">
+                            <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row6B_0_1.jpg?t=1561107661">
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">連假玩樂必備指南</b>
+                <h3 class="txt-black p-tb8"><a href="http://travel.pchome.com.tw/knowledge/longweekend" class="a-link">高鐵EZ遊「清境星空風車季」</a></h3>
+                <div class="txt-table">
+                    <div class="txt-cell txt-left txt-top">
+                        <p class="p-r8">連綿不盡，漫步於草原上的羊群更為清境農場帶了無限旖旎風情，牠們低頭吃草，有如塞外風光。清境農場近在眼底碧湖映壽、層層翠綠、埔霧遠眺、瑞亭攬勝、巒峰崢嶸，分布在賞景步道上，景緻各有特色。<br></p>
+                    </div>
+                    <div class="txt-cell txt-left txt-top p-l8">
+                        <a href="http://travel.pchome.com.tw/knowledge/longweekend">
+                        <div class="photo-box p75">
+                            <img data-region="horizontal" src="https://w6.pchome.com.tw/img/index_2019/img_row6B_0_2.jpg?t=1561107661">
+                        </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="category-box p-tb16 p-lr32">
+                <b class="category-tit">電商消費趨勢新聞特輯</b>
+                <h3 class="txt-black p-tb8"><a href="http://4c.pchome.com.tw/campaign/2019/goodlife/" class="a-link">想結婚但暫停計畫的人58%因為只能養活自己的收入買不起房而作罷</a></h3>
+            </div>                                </div>
+                                <!-- 右欄內容結束 -->
+                                <!-- 焦點快報 中右欄內容結束 -->
+                                </div>
+
+                            </div>
+                            <div class="txt-cell ad-box">
+                                <!-- 聯播網廣告code 開始 -->
+                                                                <script language="javascript">
+                                pad_width=300;
+                                pad_height=600;
+                                pad_customerId="PFBC20190424002";
+                                pad_positionId="PFBP201904260003C";
+                                </script>
+                                <script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+                                <!-- 聯播網廣告code 開始 -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 內容 本日嚴選 END -->
+
+            </div>
+
+            <!-- 頁尾 -->
+            <div class="footer-wrap transition-all">
+                <!-- 往頁面上方 -->
+                <div class="gotop-box txt-center">
+                    <a href="" class="ali-middle">
+                        <i class="txt-arrow up"></i>
+                        <span>往頁面上方</span>
+                    </a>
+                </div>
+                <!-- 相關連結 -->
+                <div class="morelink-box">
+                
+                    <div class="morelink-list">
+                        <div class="txt-table w-full">
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967592','1')">線上購物</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967593','1')">24h購物</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967594','1')">購物中心</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967646','1')">露天拍賣</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967653','1')">商店街</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967654','1')">個人賣場</a></span>
+                                <span><a target="_blank" href="/counter/3211903*https://www.pchomeec.tw/activity/AC27839340">日本代購</a></span>
+                                <span><a target="_blank" href="/counter/19113033*https://www.pchome.co.th/">泰國跨境</a></span>
+                                <span><a target="_blank" href="/counter/982543*https://global.pchome.com.tw/">全球購物</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/647*http://mail.pchome.com.tw">信箱</a></span>
+                                <span><a target="_blank" href="/counter/579*http://news.pchome.com.tw/">新聞</a> • <a target="_blank" href="/counter/3738*http://news.pchome.com.tw/weather/">氣象</a></span>
+                                <span><a target="_blank" href="/counter/580*http://pchome.megatime.com.tw/">股市</a> • <a target="_blank" href="/counter/1144796*http://pchome.megatime.com.tw/hks/">港股</a></span>
+                                <span><a target="_blank" href="/counter/648*http://mypaper.pchome.com.tw/">個人新聞台</a></span>
+                                <span><a target="_blank" href="/counter/1174091*http://search.pchome.com.tw/">找東西</a></span>
+                                <span><a target="_blank" href="/counter/19055571*http://show.pchome.com.tw/">廣告刊登</a></span>
+                                <span><a target="_blank" href="/counter/920844*http://4c.pchome.com.tw/campaign/2016/emba/">EMBA課程</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/10440946*http://www.rakuya.com.tw/">買賣租屋</a></span>
+                                <span><a target="_blank" href="/counter/1874691*https://www.pchomepay.com.tw/">支付連</a></span>
+                                <span><a target="_blank" href="/counter/677*https://www.interpay.com.tw/">國際連</a></span>
+                                <span><a target="_blank" href="/counter/6676462*https://www.piapp.com.tw">Pi 拍錢包</a></span>
+                                <span><a target="_blank" href="/counter/16904339*https://pchometravel.com/">旅遊</a> • <a target="_blank" href="/counter/17218024*https://pchometravel.com/">機x酒</a></span>
+                                <span><a target="_blank" href="/counter/292057*http://4c.pchome.com.tw/campaign/mj/">線上麻將</a></span>
+                                <span><a target="_blank" href="/counter/577*http://atm.pchome.com.tw/pchome_otheratm.html">ATM</a> • <a target="_blank" href="/counter/4979052*http://atm.pchome.com.tw/pchome_otheratm.html">繳費</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/1404360*http://kaza.pchome.com.tw/?ref=pchome_ad">kaza隨拍</a></span>
+                                <span><a target="_blank" href="/counter/657*https://www.pchomeskype.com.tw/">Skype</a></span>
+                                <span><a target="_blank" href="/counter/922*https://www.lingvist.com.tw/">Lingvist</a></span>
+                                <span><a target="_blank" href="/counter/1000429*http://car.pchome.com.tw/">買車</a> • <a target="_blank" href="/counter/782*http://car.pchome.com.tw/dealer.html?id=13">查里程</a></span>
+                                <span><a target="_blank" href="/counter/794392*http://travel.pchome.com.tw/">旅行團</a> • <a target="_blank" href="/counter/18574928*http://travel.pchome.com.tw/knowledge/longweekend">連假</a></span>
+                                <span><a target="_blank" href="/counter/18974404*http://car.pchome.com.tw/active/2019/travelsafety/">汽車險推薦</a></span>
+                                <span><a target="_blank" href="/counter/124324*http://fund.pchome.com.tw/">基金</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/332524*http://4c.pchome.com.tw/campaign/emba/">消費趨勢報</a></span>
+                                <span><a target="_blank" href="/counter/675*http://sms.pchome.com.tw/">一元簡訊</a></span>
+                                <span><a target="_blank" href="/counter/592*http://live.pchome.com.tw/">直播達人</a></span>
+                                <span><a target="_blank" href="/counter/670*http://pchome-ssl.wis.com.tw/">數位憑證</a></span>
+                                <span><a target="_blank" href="/counter/766947*http://office-sms.pchome.com.tw/index.html">企業簡訊</a></span>
+                                <span><a target="_blank" href="/counter/671*http://myname.pchome.com.tw/">買網址</a></span>
+                                <span><a target="_blank" href="/counter/674*http://webhosting.pchome.com.tw/">虛擬主機</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/15386*http://member.pchome.com.tw/">會員中心</a></span>
+                                <span><a target="_blank" href="/counter/3211949*http://4c.pchome.com.tw/campaign/2019/goodlife/">電商新聞特輯</a></span>
+                                <span><a target="_blank" href="/counter/1163089*http://news.pchome.com.tw/cat/fashion/hot">時尚</a></span>
+                                <span><a target="_blank" href="/counter/582*http://epaper.pchome.com.tw/">電子報</a></span>
+                                <span><a target="_blank" href="/counter/779*http://news.pchome.com.tw/constellation.php?mode=sign&type=day&sign_id=1">星座命理</a></span>
+                                <span><a target="_blank" href="/counter/131466*http://news.pchome.com.tw/magazine/">雜誌</a></span>
+                                <span><a target="_blank" href="/counter/571*http://webhosting.pchome.com.tw/activity/officemail/index.html">企業郵件</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 版權宣告 -->
+                <div class="copyright-box txt-light">
+                                    <div class="copyright-list p-tb16">
+                        <span><a href="counter.php?sid=804">廣告刊登</a>|</span>
+                        <span><a href="counter.php?sid=809">隱私權聲明</a>|</span>
+                        <span><a href="counter.php?sid=810" target="_blank">消費者保護</a>|</span>
+                        <span><a href="counter.php?sid=812">兒童網路安全</a>|</span>
+                        <span><a href="counter.php?sid=814">About PChome</a>|</span>
+                        <span><a href="counter.php?sid=815">投資人聯絡</a>|</span>
+                        <span><a href="counter.php?sid=816">徵才</a></span>
+                    </div>
+                    <div class="copyright-text p-tb8">網路家庭版權所有、轉載必究 ‧Copyright  PChome Online<p class="p-t8">PChome Online and PChome are trademarks of PChome Online Inc.</p></div>                </div>
+            </div>
+
+            <!-- 選單總覽 -->
+            <div class="menu-link" style="display:none">
+                <!-- 相關連結 -->
+                <div class="morelink-box">
+                
+                    <div class="morelink-list">
+                        <div class="txt-table w-full">
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967592','1')">線上購物</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967593','1')">24h購物</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967594','1')">購物中心</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967646','1')">露天拍賣</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967653','1')">商店街</a></span>
+                                <span><a style="cursor:pointer" onclick="left_base_menu('18967654','1')">個人賣場</a></span>
+                                <span><a target="_blank" href="/counter/3211903*https://www.pchomeec.tw/activity/AC27839340">日本代購</a></span>
+                                <span><a target="_blank" href="/counter/19113033*https://www.pchome.co.th/">泰國跨境</a></span>
+                                <span><a target="_blank" href="/counter/982543*https://global.pchome.com.tw/">全球購物</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/647*http://mail.pchome.com.tw">信箱</a></span>
+                                <span><a target="_blank" href="/counter/579*http://news.pchome.com.tw/">新聞</a> • <a target="_blank" href="/counter/3738*http://news.pchome.com.tw/weather/">氣象</a></span>
+                                <span><a target="_blank" href="/counter/580*http://pchome.megatime.com.tw/">股市</a> • <a target="_blank" href="/counter/1144796*http://pchome.megatime.com.tw/hks/">港股</a></span>
+                                <span><a target="_blank" href="/counter/648*http://mypaper.pchome.com.tw/">個人新聞台</a></span>
+                                <span><a target="_blank" href="/counter/1174091*http://search.pchome.com.tw/">找東西</a></span>
+                                <span><a target="_blank" href="/counter/19055571*http://show.pchome.com.tw/">廣告刊登</a></span>
+                                <span><a target="_blank" href="/counter/920844*http://4c.pchome.com.tw/campaign/2016/emba/">EMBA課程</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/10440946*http://www.rakuya.com.tw/">買賣租屋</a></span>
+                                <span><a target="_blank" href="/counter/1874691*https://www.pchomepay.com.tw/">支付連</a></span>
+                                <span><a target="_blank" href="/counter/677*https://www.interpay.com.tw/">國際連</a></span>
+                                <span><a target="_blank" href="/counter/6676462*https://www.piapp.com.tw">Pi 拍錢包</a></span>
+                                <span><a target="_blank" href="/counter/16904339*https://pchometravel.com/">旅遊</a> • <a target="_blank" href="/counter/17218024*https://pchometravel.com/">機x酒</a></span>
+                                <span><a target="_blank" href="/counter/292057*http://4c.pchome.com.tw/campaign/mj/">線上麻將</a></span>
+                                <span><a target="_blank" href="/counter/577*http://atm.pchome.com.tw/pchome_otheratm.html">ATM</a> • <a target="_blank" href="/counter/4979052*http://atm.pchome.com.tw/pchome_otheratm.html">繳費</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/1404360*http://kaza.pchome.com.tw/?ref=pchome_ad">kaza隨拍</a></span>
+                                <span><a target="_blank" href="/counter/657*https://www.pchomeskype.com.tw/">Skype</a></span>
+                                <span><a target="_blank" href="/counter/922*https://www.lingvist.com.tw/">Lingvist</a></span>
+                                <span><a target="_blank" href="/counter/1000429*http://car.pchome.com.tw/">買車</a> • <a target="_blank" href="/counter/782*http://car.pchome.com.tw/dealer.html?id=13">查里程</a></span>
+                                <span><a target="_blank" href="/counter/794392*http://travel.pchome.com.tw/">旅行團</a> • <a target="_blank" href="/counter/18574928*http://travel.pchome.com.tw/knowledge/longweekend">連假</a></span>
+                                <span><a target="_blank" href="/counter/18974404*http://car.pchome.com.tw/active/2019/travelsafety/">汽車險推薦</a></span>
+                                <span><a target="_blank" href="/counter/124324*http://fund.pchome.com.tw/">基金</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/332524*http://4c.pchome.com.tw/campaign/emba/">消費趨勢報</a></span>
+                                <span><a target="_blank" href="/counter/675*http://sms.pchome.com.tw/">一元簡訊</a></span>
+                                <span><a target="_blank" href="/counter/592*http://live.pchome.com.tw/">直播達人</a></span>
+                                <span><a target="_blank" href="/counter/670*http://pchome-ssl.wis.com.tw/">數位憑證</a></span>
+                                <span><a target="_blank" href="/counter/766947*http://office-sms.pchome.com.tw/index.html">企業簡訊</a></span>
+                                <span><a target="_blank" href="/counter/671*http://myname.pchome.com.tw/">買網址</a></span>
+                                <span><a target="_blank" href="/counter/674*http://webhosting.pchome.com.tw/">虛擬主機</a></span>
+                            </div>
+                            <div class="txt-cell txt-top txt-left">
+                                <span><a target="_blank" href="/counter/15386*http://member.pchome.com.tw/">會員中心</a></span>
+                                <span><a target="_blank" href="/counter/3211949*http://4c.pchome.com.tw/campaign/2019/goodlife/">電商新聞特輯</a></span>
+                                <span><a target="_blank" href="/counter/1163089*http://news.pchome.com.tw/cat/fashion/hot">時尚</a></span>
+                                <span><a target="_blank" href="/counter/582*http://epaper.pchome.com.tw/">電子報</a></span>
+                                <span><a target="_blank" href="/counter/779*http://news.pchome.com.tw/constellation.php?mode=sign&type=day&sign_id=1">星座命理</a></span>
+                                <span><a target="_blank" href="/counter/131466*http://news.pchome.com.tw/magazine/">雜誌</a></span>
+                                <span><a target="_blank" href="/counter/571*http://webhosting.pchome.com.tw/activity/officemail/index.html">企業郵件</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript" src="https://adcl.pchome.com.tw/getAd2JS.html?type=43&channel=new_pchome_online_h&encoding=Utf8"></script>
+<script type="text/javascript" src="https://adcl.pchome.com.tw/getAd2JS.html?type=44&channel=new_pchome_online_h&encoding=Utf8"></script>
+
+<script language="javascript">
+pad_width=1400;
+pad_height=60;
+pad_customerId="PFBC20190424002";
+pad_positionId="PFBP201904260007S";
+</script>
+<script id="pcadscript" language="javascript" src="https://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script>
+
+<script type="text/javascript">
+// Set check -90101-
+var _chkBflag='2019062117';
+</script>
+</body>
+</html>

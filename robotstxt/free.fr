@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /assistance/8.html
+Disallow: /assistance/113.html

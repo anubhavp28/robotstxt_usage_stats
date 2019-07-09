@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /wetter_aktuell/wettervorhersage/*/Africa/*
+Disallow: /wetter_aktuell/wettervorhersage/*/Asien/*
+Disallow: /wetter_aktuell/wettervorhersage/*/Europa/*
+Disallow: /wetter_aktuell/wettervorhersage/*/Nordamerika/*
+Disallow: /wetter_aktuell/wettervorhersage/*/Ozeanien/*
+Disallow: /wetter_aktuell/wettervorhersage/*/Südamerika/*
+Disallow: /wetter_aktuell/rueckblickdata/*
+Disallow: /wetter_aktuell/forecast_update/
+Disallow: /favoriten/
+Disallow: /statistics?token=
+Disallow: /app_dev.php
+Disallow: /app_dev.php/*
+Disallow: /*/Staedteansicht/
+Disallow: /*/Regionenansicht/
+Disallow: /*/Freizeitparkansicht/
+Disallow: /*/,apres_ski:1
+Disallow: /*/,kidspark:1
+Disallow: /*/,skiing:1
+Disallow: /*/,country_ski_trails:1
+Disallow: /regenradar/Africa/*
+Disallow: /regenradar/Asien/*
+Disallow: /regenradar/Europa/*
+Disallow: /regenradar/Nordamerika/*
+Disallow: /regenradar/Ozeanien/*
+Disallow: /regenradar/Südamerika/*
+Disallow: /news/schlagzeilen/
+Disallow: /news/schlagzeilen/*
+
+

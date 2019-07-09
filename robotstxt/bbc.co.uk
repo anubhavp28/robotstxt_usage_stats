@@ -1,0 +1,90 @@
+# v.4.8.10
+
+User-agent: bingbot
+Crawl-Delay: 1
+
+Sitemap: https://www.bbc.co.uk/sitemap.xml
+Sitemap: https://www.bbc.co.uk/sitemaps/https-index-uk-archive.xml
+Sitemap: https://www.bbc.co.uk/sitemaps/https-index-uk-news.xml
+
+
+Disallow: /cbbc/search$
+Disallow: /cbbc/search/
+Disallow: /cbbc/search?
+Disallow: /cbeebies/search$
+Disallow: /cbeebies/search/
+Disallow: /cbeebies/search?
+Disallow: /chwilio/
+Disallow: /chwilio$
+Disallow: /chwilio?
+Disallow: /iplayer/bigscreen/
+Disallow: /iplayer/cbbc/episodes/
+Disallow: /iplayer/cbbc/search
+Disallow: /iplayer/cbeebies/episodes/
+Disallow: /iplayer/cbeebies/search
+Disallow: /iplayer/search
+Disallow: /indepthtoolkit/smallprox$
+Disallow: /indepthtoolkit/smallprox/
+Disallow: /modules/musicnav/language/
+Disallow: /news/0
+Disallow: /radio/aod/
+Disallow: /radio/aod$
+Disallow: /radio/player/
+Disallow: /radio/player$
+Disallow: /search/
+Disallow: /search$
+Disallow: /search?
+Disallow: /ugc$
+Disallow: /ugc/
+Disallow: /ugcsupport$
+Disallow: /ugcsupport/
+Disallow: /ugcstatic$
+Disallow: /ugcstatic/
+Disallow: /food/favourites
+Disallow: /food/menus/*/shopping-list
+Disallow: /food/recipes/*/shopping-list
+Disallow: /food/search*?*
+
+User-agent: *
+Sitemap: https://www.bbc.co.uk/sitemap.xml
+Sitemap: https://www.bbc.co.uk/sitemaps/https-index-uk-archive.xml
+Sitemap: https://www.bbc.co.uk/sitemaps/https-index-uk-news.xml
+
+
+Disallow: /cbbc/search$
+Disallow: /cbbc/search/
+Disallow: /cbbc/search?
+Disallow: /cbeebies/search$
+Disallow: /cbeebies/search/
+Disallow: /cbeebies/search?
+Disallow: /chwilio/
+Disallow: /chwilio$
+Disallow: /chwilio?
+Disallow: /iplayer/bigscreen/
+Disallow: /iplayer/cbbc/episodes/
+Disallow: /iplayer/cbbc/search
+Disallow: /iplayer/cbeebies/episodes/
+Disallow: /iplayer/cbeebies/search
+Disallow: /iplayer/search
+Disallow: /indepthtoolkit/smallprox$
+Disallow: /indepthtoolkit/smallprox/
+Disallow: /modules/musicnav/language/
+Disallow: /news/0
+Disallow: /radio/aod/
+Disallow: /radio/aod$
+Disallow: /radio/player/
+Disallow: /radio/player$
+Disallow: /search/
+Disallow: /search$
+Disallow: /search?
+Disallow: /ugc$
+Disallow: /ugc/
+Disallow: /ugcsupport$
+Disallow: /ugcsupport/
+Disallow: /ugcstatic$
+Disallow: /ugcstatic/
+Disallow: /food/favourites
+Disallow: /food/menus/*/shopping-list
+Disallow: /food/recipes/*/shopping-list
+Disallow: /food/search*?*
+

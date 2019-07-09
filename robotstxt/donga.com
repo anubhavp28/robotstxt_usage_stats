@@ -1,0 +1,34 @@
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Naverbot
+Allow: /
+User-agent: Yeti
+Allow: /
+User-agent: Daumoa
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+User-agent: Facebot
+Allow: /
+User-agent: KaBot
+Allow: /
+
+User-agent: *
+Disallow: /search
+Disallow: /Search
+Disallow: /VOICE
+
+Sitemap: http://www.donga.com/sitemap/donga-newsmap.xml
+Sitemap: https://image.donga.com/sitemap/donga-sitemap.xml
+Sitemap: http://www.donga.com/sitemap/foreign-newsmap.xml
+Sitemap: https://image.donga.com/sitemap/foreign-sitemap.xml

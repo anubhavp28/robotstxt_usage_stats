@@ -1,0 +1,22 @@
+# JIRA:
+# Disallow all SearchRequestViews in the IssueNavigator (Word, XML, RSS,
+# etc), all IssueViews (XML, Printable and Word), all charts and reports.
+# Disallow admin.
+#
+# Confluence:
+# Confluence uses in-page robot exclusion tags for non-indexable pages.
+# Disallow admin explicitly.
+#
+# General:
+# Disallow login, logout
+ 
+User-agent: *
+Disallow: /sr/
+Disallow: /si/
+Disallow: /charts
+Disallow: /secure/ConfigureReport.jspa
+Disallow: /secure/ConfigureReport!default.jspa
+Disallow: /secure/admin/
+Disallow: /wiki/admin/
+Disallow: /login
+Disallow: /logout

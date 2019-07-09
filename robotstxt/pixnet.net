@@ -1,0 +1,4 @@
+# www.pixnet.net
+User-agent: *
+Disallow: /mainpage/api/
+Disallow: /pcard/api/

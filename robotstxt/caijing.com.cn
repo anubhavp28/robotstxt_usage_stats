@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>页面未找到-财经网</title>
+<style>
+/* 公共样式 */
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,table,td,img,div,input,dl,dt,dd{margin:0;padding:0;border:0;}
+body{background:#f4f4f4;font-size:12px;font-family: "Microsoft YaHei";}
+ul,ol{list-style-type:none;}
+select,input,img,select{vertical-align:middle;}
+a:link,a:visited{text-decoration:none;}
+a:active,a:hover{text-decoration:underline;}
+.clear{clear:both;height:0;overflow:hidden;}
+.clr{clear:both;font-size:1px;visibility:hidden;width:1px;line-height:1px!important;}
+.header,.footer{width:980px;margin:0 auto;}
+
+/* 搜索 */
+.search{float:right;border:1px #577f99 solid;padding:1px;background:#fff;height:18px;overflow:hidden;margin-top:4px;}
+.search_text{height:18px;float:left;line-height:18px;color:#093b70;border:none;width:220px;padding-left:5px;}
+.search_go{height:18px;float:left;line-height:18px;width:40px;background:url(http://tx1.cdn.caijing.com.cn/index/images/top_border.jpg) 0 -18px repeat-x;border:none;overflow:hidden;}
+
+/* 头部样式 */
+.head{background:url(http://tx1.cdn.caijing.com.cn/magazine/images/mag_headbg.gif) 0 0 repeat-x;height:62px;}
+.headup{height:29px;line-height:29px;}
+.headup_lt{float:left;width:500px;}
+.headup_rt{float:right;}
+.headup_lt li{margin-top:6px;height:18px;float:left;background:url(http://tx1.cdn.caijing.com.cn/index/images/top_border.jpg) right 0 no-repeat;}
+.headup_lt a{color:#0f4476;padding:0 10px;margin:3px 0;float:left;height:12px;line-height:12px;*padding-top:2px;}
+
+/* 导航 */
+.head_nav{padding-top:2px;}
+.head_nav ul{float:left;overflow:hidden;height:31px;}
+.head_nav li{height:31px;line-height:31px;float:left;padding:0 6px;}
+.head_nav li a{padding:0 6px;display:block;float:left;height:31px;color:#012549;}
+.head_nav li a:hover{color:#FFFFFF;background:#1c70c8;}
+.head_nav .mag_this a{color:#FFFFFF;background:#1c70c8;}
+.head_nav .mag_tt{color:#ff5823;}
+
+
+/* 尾部 */
+.foot{background:#05172f url(http://tx1.cdn.caijing.com.cn/index/images/foot_bg.gif) 0 0 repeat-x; width:100%;height:112px; margin-top:0;}
+.footer{width:980px;margin:0 auto;}
+.footer_link{height:28px;}
+.flink_lt{float:left;line-height:28px;height:28px;color:#fff;}
+.flink_lt a{line-height:28px;padding:0 6px;color:#fff;}
+.flink_rt{float:right;padding:2px 20px 0 0;}
+.copybd{padding:10px 0 20px 0;text-align:center;line-height:20px;color:#67a2ce;}
+.copybd_a{color:#67a2ce;}
+.mag_head{background:url(http://tx1.cdn.caijing.com.cn/magazine/images/mag_headbg.gif) 0 0 repeat-x;height:62px;}
+</style>
+</head>
+<body>
+
+<script type="text/javascript">
+//<!--
+function isIFrameSelf(){try{if(window.top ==window){return false;}else{return true;}}catch(e){return true;}}
+function toHome(){ if(!isIFrameSelf()){ window.location.href="http://www.caijing.com.cn/";}}
+window.setTimeout("toHome()",5000);
+//-->
+</script>
+
+
+
+<style>
+.headup_lt li .cj_phone {background:url(http://ws3.cdn.caijing.com.cn/2012-12-04/112333638.gif ) 0 0 no-repeat; height:14px; margin:3px 0 0 5px; padding-left:15px; }
+.head_nav li,.head_nav li a{padding:0 4px;}
+</style> 
+<script>
+function searchsubmit(frm){
+	if(frm.key.value.trim()=="" || frm.key.value.trim()=="请输入搜索关键词")
+	{
+		alert("请输入关键字!");
+		frm.key.value="";
+		frm.key.focus();
+		return false;
+	}
+}
+</script>
+<div class="head mag_head" id="area_index_comm_top1_2011">	
+    <div class="header">
+        <div class="headup">
+            <ul class="headup_lt">
+                <li><a href="javascript:void(0);" target="_self" onclick="SetHome(this)" style="behavior:url(#default#homepage);">设为首页</a></li>
+                <li><a href="http://www.caijing.com.cn/2012/mobile_caijing/" class="cj_phone">手机版</a></li>
+                <li><a href="http://corp.caijing.com.cn/caijingiphone/">安装iPhone版</a></li>
+                <li><a href="http://corp.caijing.com.cn/caijingandroid/">安装Android版</a></li>
+            </ul>
+            <div class="headup_rt">
+                <div class="search">
+<form action="http://search.caijing.com.cn/search.jsp" method="post" name="searchfrm" id="searchfrm" onsubmit="return searchsubmit(this);" target="_blank" rel="external">
+<input class="search_text" name="key" type="text" value="请输入搜索关键词" onfocus="if (value =='请输入搜索关键词'){value =''}" onblur="if (value ==''){value='请输入搜索关键词'}"/><input class="search_go" type="submit" value="搜索" />
+<input name="item" value="3" type="hidden">
+<input name="range" value="0" type="hidden">
+</form>					
+                </div>
+            </div>
+        </div>
+        <!-- 导航 begin -->
+        <div class="head_nav">
+            <ul>
+                <li><a href="http://www.caijing.com.cn/">财经网首页</a></li>
+                <li><a href="http://economy.caijing.com.cn/index.html">宏观</a></li>
+                <li><a href="http://stock.caijing.com.cn/index.html">证券</a></li>
+                <li><a href="http://finance.caijing.com.cn/index.html">金融</a></li>
+                <li><a href="http://industry.caijing.com.cn/index.html">产经</a></li>
+                <li><a href="http://tech.caijing.com.cn/">科技</a></li>
+                <li><a href="http://auto.caijing.com.cn/">汽车</a></li>
+                <li><a href="http://estate.caijing.com.cn/index.html">地产</a></li>
+                <li><a href="http://politics.caijing.com.cn/index.html">政经</a></li>
+                <li><a href="http://overseas.caijing.com.cn/index.html">海外</a></li>
+                <li><a href="http://life.caijing.com.cn/index.html">生活</a></li>
+                <li><a href="http://photos.caijing.com.cn">图片</a></li>
+                <li><a href="http://comments.caijing.com.cn/">评论</a></li>
+                <li><a href="http://column.caijing.com.cn/">专栏</a></li>
+                <li><a href="http://blog.caijing.com.cn/">博客</a></li>
+                <li><a href="http://www.caijing.com.cn/2008/topiclist/">专题</a></li>
+                <li id="weisq"><a class="mag_tt" href="http://t.caijing.com.cn/">微社区</a></li>
+                <li><a href="http://www.caijing.com.cn/high_end_interview/">高端财访</a></li>
+                <li><a href="http://magazine.caijing.com.cn/">财经杂志</a></li>
+                <li><a href="http://www.caijing.com.cn/subscription/">财经商城</a></li>
+                <li><a href="http://english.caijing.com.cn/">English</a></li>
+            </ul>
+        </div>
+        <!-- 导航 end -->
+    </div>	
+</div>
+<!-- 头部 end -->
+<!-- 中部内容 begin -->
+<div class="center">
+	<div style="width:704px; height:188px; margin:0 auto; margin-top:136px; margin-bottom:136px;"><img src="http://tx1.cdn.caijing.com.cn/2014/1231/1420009944596.gif" width="704" height="184" /></div>
+</div>
+<!-- 中部内容 begin -->
+<!-- 底部 begin -->
+<div class="foot" id="area_index_comm_footer2_2011">
+    <div class="footer">
+        <div class="footer_link">
+            <div class="flink_lt">
+                <a href="http://corp.caijing.com.cn/caijing/" rel="nofollow">关于财经网</a>|<a href="http://corp.caijing.com.cn/aboutus/" rel="nofollow">关于我们</a>|<a href="http://corp.caijing.com.cn/contactus/" rel="nofollow">联系我们</a>|<a href="http://corp.caijing.com.cn/ads/" rel="nofollow">广告合作</a>|<a href="http://corp.caijing.com.cn/fellowship/">财经奖学金</a>|<a href="http://corp.caijing.com.cn/joinus/" rel="nofollow">财经招聘</a>|<a href="http://corp.caijing.com.cn/environment/">环境公益中心</a>|<a href="http://www.caijing.com.cn/webmap/">网站地图</a>|<a href="http://english.caijing.com.cn/aboutus/">About caijing.com.cn</a>
+            </div>
+
+        </div>
+        <div class="copybd">有意与本刊合作者，有关合作事宜请与财经网联系。未经财经网书面授权，请勿转载或建立镜像，否则即为侵权。<br/>
+             [<a class="copybd_a" href="http://www.miibeian.gov.cn/"><span>京ICP证090027号</span></a>]　增值电信业务经营许可证[<a class="copybd_a" href="http://www.miibeian.gov.cn/"><span>B2-20040250</span></a>]　广告经营许可证<span>[京海工商广字第0407号]</span>　<span>京公网安备110105005607号</span><br/>Copyright 财经网 All Rights   Reserved 版权所有 复制必究<br/>
+        </div>
+    </div>
+</div>
+<!-- 底部 end -->
+</body>
+</html>

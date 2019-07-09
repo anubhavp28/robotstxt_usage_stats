@@ -1,0 +1,63 @@
+### BEGIN FILE ###
+#
+# DR
+#
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <http://www.robotstxt.org/ wc/ exclusion.html> is strictly
+# prohibited.
+# v3
+#
+
+User-agent: *
+Disallow: /b/*LH_
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /*rt=nc
+Disallow: /*rt%3Dnc
+Disallow: /edc/
+Disallow: /sch/aop/
+Disallow: /sch/*%EF
+Disallow: /sl/*bn_*?
+Disallow: /sl/node
+Disallow: /sme/
+Disallow: /soc/
+Disallow: /urw/write-review/
+Disallow: /sch/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /b/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /cta/
+Noindex: /usr/*/all-follows
+Disallow: /usr/*/all-follows
+Noindex: /usr/*/followers
+Disallow: /usr/*/followers
+Disallow: /usr/*followers
+Disallow: /e/*?
+
+# BROWSE1 Sitemaps
+Sitemap: https://www.ebay.it/lst/BROWSE1-101-index.xml
+
+# BROWSE2 Sitemaps
+Sitemap: https://www.ebay.it/lst/BROWSE2-101-index.xml
+
+# BROWSE3 Sitemaps
+Sitemap: https://www.ebay.it/lst/BROWSE3-101-index.xml
+
+# KWSRP Sitemaps
+Sitemap: https://www.ebay.it/lst/KWSRP-101-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.it/lst/VIS-101-index.xml
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.it/lst/PRP-101-index.xml
+
+### END FILE ###

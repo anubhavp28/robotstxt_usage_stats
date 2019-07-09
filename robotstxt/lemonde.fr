@@ -1,0 +1,278 @@
+# 11/06/2019
+# Il est interdit d'utiliser des robots d'indexation Web ou d'autres méthodes automatiques de feuilletage ou de navigation sur ce site Web.
+# Nous interdisons de crawler notre site Web en utilisant un agent d'utilisateur volé qui ne correspond pas à votre identité.
+# « Violation du droit du producteur de base de données - article L 342-1 et suivant le Code de la propriété intellectuelle ».
+# Nous vous invitons à nous contacter pour contracter une licence d'utilisation. Seuls les partenaires sont habilités à utiliser nos contenus pour un usage autre que strictement individuel.
+#
+#
+User-agent: *
+Allow: /services-aux-internautes/article/2015/04/23/l-equipe-du-monde-fr_1673027_3388.html
+Allow: /archives/article/199*
+Allow: /archives/article/198*
+Allow: /archives/article/197*
+Allow: /archives/article/1969
+Allow: /archives/article/1968
+Allow: /archives/article/1967
+Allow: /archives/article/1966
+Allow: /archives/article/1965
+Allow: /archives/article/20*
+Allow: /ws/1/live/*
+Allow: /ws/1/related_content/*
+
+#
+Disallow: /ajah/
+Disallow: /api/
+Disallow: /archives/
+Disallow: /beta
+Disallow: /cgi-bin/ACHATS/
+Disallow: /element/commun/afficher/
+Disallow: /petites-annonces/
+Disallow: /qui-sommes-nous/
+Disallow: /reactions/
+Disallow: /txt/
+Disallow: /web/
+Disallow: /verification/source/*
+Disallow: /noscript/
+Disallow: /ws/*
+Disallow: /recherche/*
+Disallow: /actualite-en-continu/*.html*
+Disallow: /lemonde-beta/*
+Disallow: /blog/*
+
+
+# Code Promo
+Disallow: /codepromo/user/*
+Disallow: /codepromo/ajax/*
+Disallow: /codepromo/retailer/index/hiw
+Disallow: /codepromo/clickout/*
+Disallow: /codepromo/gotoshop/*
+Disallow: /codepromo/*/show/*
+Disallow: /codepromo/loading/*
+Disallow: /codepromo/cn-track/*
+Disallow: /codepromo/default-tracking/*
+Disallow: /codepromo/track-wl/*
+Disallow: /codepromo/pixel-track/*
+Disallow: /codepromo/tracking-pixel/*
+Disallow: /codepromo/pixel/*
+Disallow: /codepromo/tracking/*
+Disallow: /codepromo/cn-clickout/*
+Disallow: /codepromo/default/out/*
+Disallow: /codepromo/out/*
+Disallow: /codepromo/clickout-out/*
+Disallow: /codepromo/click-out/*
+Disallow: /codepromo/co/*
+
+#
+# Sitemaps
+Sitemap: https://www.lemonde.fr/sitemap_news.xml
+Sitemap: https://www.lemonde.fr/sitemap_index.xml
+#
+User-agent: Googlebot-Image
+Allow: /image/
+#
+User-agent: Googlebot-News
+Disallow: /archives/
+#
+# Robots exclus de toute indexation.
+User-agent: Meltawer
+Disallow: /
+#
+User-agent: Digimind
+Disallow: /
+#
+User-agent: Knowings
+Disallow: /
+#
+User-agent: Sindup
+Disallow: /
+#
+User-agent: Cision
+Disallow: /
+#
+User-agent: Talkwater
+Disallow: /
+#
+User-agent: TurnitinBot
+Disallow: /
+#
+User-agent: ConveraCrawler
+Disallow: /
+#
+User-agent: Jetbot
+Disallow: /
+#
+User-agent: NewsNow
+Disallow: /
+#
+User-agent: kbcrawl
+Disallow: /
+#
+User-agent: AmiSoftware
+Disallow: /
+#
+User-agent: Newzbin
+Disallow: /
+#
+User-agent: Ask n read
+Disallow: /
+#
+User-agent: Qwam content intelligence
+Disallow: /
+#
+User-agent: Zite
+Disallow: /
+#
+User-agent: flipboard
+Disallow: /
+#
+User-agent: Youmag
+Disallow: /
+#
+User-agent: Synthesio
+Disallow: /
+#
+User-agent: trendybuzz
+Disallow: /
+#
+User-agent: spotter
+Disallow: /
+#
+User-agent: scoop.it
+Disallow: /
+#
+User-agent: linkfluence
+Disallow: /
+#
+User-agent: 5emeRue
+Disallow: /
+#
+User-agent: Augure
+Disallow: /
+#
+User-agent: Corporama
+Disallow: /
+#
+User-agent: grub-client
+Disallow: /
+#
+User-agent: ia_archiver
+Allow: /$
+Disallow: /*
+#
+User-agent: ia_archiver-web.archive.org
+Allow: /$
+Disallow: /*
+#
+User-agent: k2spider
+Disallow: /
+#
+User-agent: libwww
+Disallow: /
+#
+User-agent: wget
+Disallow: /
+#
+User-agent: 5erue
+Disallow: /
+#
+User-agent: adequat
+Disallow: /
+#
+User-agent: adequat-systems
+Disallow: /
+#
+User-agent: auramundi
+Disallow: /
+#
+User-agent: coexel
+Disallow: /
+#
+User-agent: ellisphere
+Disallow: /
+#
+User-agent: leadbox
+Disallow: /
+#
+User-agent: mention
+Disallow: /
+#
+User-agent: Moreover
+Disallow: /
+#
+User-agent: mytwip
+Disallow: /
+#
+User-agent: NewsNow
+Disallow: /
+#
+User-agent: Newzbin
+Disallow: /
+#
+User-agent: opinion-tracker
+Disallow: /
+#
+User-agent: proxem
+Disallow: /
+#
+User-agent: score3
+Disallow: /
+#
+User-agent: trendeo
+Disallow: /
+#
+User-agent: vecteurplus
+Disallow: /
+#
+User-agent: verticalsearch
+Disallow: /
+#
+User-agent: vsw
+Disallow: /
+#
+User-agent: winello
+Disallow: /
+#
+User-agent: Fetch
+Disallow: /
+#
+User-agent: infoseek
+Disallow: /
+#
+User-agent: MSIECrawler
+Disallow: /
+#
+User-agent: Offline Explorer
+Disallow: /
+#
+User-agent: sitecheck.internetseer.com
+Disallow: /
+#
+User-agent: Teleport
+Disallow: /
+#
+User-agent: TeleportPro
+Disallow: /
+#
+User-agent: WebCopier
+Disallow: /
+#
+User-agent: WebStripper
+Disallow: /
+#
+User-agent: Zealbot
+Disallow: /
+#
+User-agent: asknread.com
+Disallow: /
+#
+User-agent: ellisphere
+Disallow: /
+#
+User-agent: spotter
+Disallow: /
+#
+User-Agent: omgilibot
+Disallow: /
+#
+User-Agent: omgili
+Disallow: /

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /newsletter
+Disallow: /8071944
+Disallow: /common
+Disallow: /adsimg
+Disallow: /index.php/
+Disallow: /cms/main/
+Disallow: /now/media/35161
+Disallow: /content/
+Disallow: /var/
+Disallow: /contacts?source*
+Disallow: /*?comments_page=
+Disallow: /users
+Disallow: /articles/erotica_articles
+User-agent: psbot
+Disallow: /
+User-agent: asterias
+Disallow: /
+
+Sitemap: https://www.lifo.gr/sitemap.xml

@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /en/
+Disallow: /zh-cn/
+Disallow: /zh-tw/
+Disallow: /ko/
+Disallow: */affiliate_id=*/
+Disallow: */ajax-basket/
+Disallow: */ajax-select-basket/
+Disallow: */ajax-carousel/
+Disallow: */ajax-movie/
+Disallow: */ajax=movie/
+Disallow: */ajax-auctioninfo/
+Disallow: */ajax-autobidcancel/
+Disallow: */ajax-panel/
+Disallow: */ajax-ranking/
+Disallow: */ajax-recommend/
+Disallow: */ajax-sample-frame/
+Disallow: /=/ad/
+Disallow: */n3=*
+Disallow: /time=*
+Disallow: */time=*
+Disallow: */basket/
+Disallow: */searchmes=*/
+Disallow: /search/
+Disallow: /review/-/write/=/cid=*
+Disallow: /litevideo/-/service/
+Disallow: /mono/dmp/-/exhibit/
+Disallow: /mono/dmp/-/reserve/
+Disallow: /mono/dmp/-/detail/=/eid=*
+Disallow: /mono/dmp/-/question/=/eid=*
+Disallow: /mono/dmp/-/exhibitor_list/=/type=estimation/exid=*
+Disallow: /rental/ppr/
+Disallow: /beppin/
+Disallow: */listsearch/
+Disallow: */list/search/
+Disallow: */list/narrow/
+
+#my
+Disallow: */my/
+Disallow: /misc/-/navi/pc/
+
+Disallow: /maintenance/
+
+# affiliate regist
+Disallow: /regist/-/affiliate_owner/=/ga_act=guest
+
+Sitemap:http://www.dmm.co.jp/digital/sitemap_index.xml
+Sitemap:http://www.dmm.co.jp/digital/sitemap_top.xml
+Sitemap:https://dojin.dmm.co.jp/sitemap.xml

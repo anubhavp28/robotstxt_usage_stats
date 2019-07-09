@@ -1,0 +1,109 @@
+# vim: ft=robots
+
+User-agent: Mediapartners-Google
+Disallow:
+Disallow: /checkout/
+
+User-agent: 008
+Disallow: /
+
+User-agent: rogerbot
+Disallow:
+
+User-agent: dotbot
+Disallow:
+
+User-agent: *
+Disallow: /admincp/
+Disallow: /ajax/
+Disallow: /attachment/BF/
+Disallow: /attachment/circulars/
+Disallow: /calendar.php
+Disallow: /coupons.php
+Disallow: /coupons/coupons.php
+Disallow: /coupons/index.php
+Disallow: /coupons/merge.php
+Disallow: /coupons/store.php
+Disallow: /deals/filtered/
+Disallow: /e/
+Disallow: /editpost.php
+Disallow: /filtered/
+Disallow: /forums/admincp/
+Disallow: /forums/archive/
+Disallow: /forums/blank.php
+Disallow: /forums/calendar.php
+Disallow: /forums/dealalerts.php
+Disallow: /forums/editpost.php
+Disallow: /forums/followers.php
+Disallow: /forums/forumdisplay.php?f=71
+Disallow: /forums/forumdisplay.php?f=80
+Disallow: /forums/forumdisplay.php?f=84
+Disallow: /forums/filtered/
+Disallow: /forums/images/
+Disallow: /forums/login.php
+Disallow: /forums/memberlist.php
+Disallow: /forums/modcp/
+Disallow: /forums/newreply.php
+Disallow: /forums/newsearch.php
+Disallow: /forums/newthread.php
+Disallow: /forums/online.php
+Disallow: /forums/picture.php
+Disallow: /forums/poll.php
+Disallow: /forums/private.php
+Disallow: /forums/profile.php
+Disallow: /forums/register.php
+Disallow: /forums/report.php
+Disallow: /forums/reputation.php
+Disallow: /forums/sdlists/
+Disallow: /forums/sdsearch.php
+Disallow: /forums/search.php
+Disallow: /forums/showgroups.php
+Disallow: /forums/showpost.php
+Disallow: /forums/usercp.php
+Disallow: /forums/userposts.php
+Disallow: /forums/vbsearch.php
+Disallow: /login.php
+Disallow: /memberlist.php
+Disallow: /modcp/
+Disallow: /newreply.php
+Disallow: /newsearch.php
+Disallow: /newthread.php
+Disallow: /online.php
+Disallow: /outclick_interstitial.php
+Disallow: /private.php
+Disallow: /profile.php
+Disallow: /reputation.php
+Disallow: /sdsearch.php
+Disallow: /search.php
+Disallow: /share/
+Disallow: /showgroups.php
+Disallow: /showpost.php
+Disallow: /usercp.php
+Disallow: /vbsearch.php
+Disallow: /*u2=*
+Disallow: /*intagid[]=*
+Disallow: /*icon=*
+Disallow: /*tagid=*
+Disallow: /1006041/*
+Disallow: /outgoing/*
+Disallow: /ajax/*
+Disallow: /*pno=*
+Disallow: /*tid=*
+Disallow: /userstyles.php
+Disallow: /forums/userstyles.php
+Disallow: /landing/*
+Disallow: /storesuggest.php
+Disallow: /profile/emailmanagement/
+Disallow: /content/*
+Disallow: /forums/forumdisplay.php?f=25
+Disallow: /checkout/
+Disallow: /deal-alerts/share/
+Disallow: /newsearch.php?*rss=*
+Disallow: /eea/
+Disallow: /best-deals/merchant-redirect/
+Disallow: /sdapi/
+Disallow: /account/
+Disallow: /alpha/
+Disallow: /current-fp/
+
+Sitemap: https://slickdeals.net/attachment/sitemaps/sitemap.xml

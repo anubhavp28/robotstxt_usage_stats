@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /search/
+Disallow: /redirect/
+Disallow: /news/
+Disallow: /rnews/
+Disallow: /tnews/
+Disallow: /ghits/
+Disallow: /pnews/
+Noindex: /rnews/
+Noindex: /tnews/
+Noindex: /ghits/
+Noindex: /pnews/
+Host: www.mgid.com
+Sitemap: http://www.mgid.com/sitemap.xml

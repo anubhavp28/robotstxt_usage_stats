@@ -1,0 +1,23 @@
+User-agent:*
+Sitemap: http://www.hurriyet.com.tr/sitemaps/newssitemap.xml
+Sitemap: http://www.hurriyet.com.tr/sitemaps/posts.xml
+Disallow: /ad/
+Disallow: /api/
+Disallow: /arama/
+Disallow: /arkadasimamektup/
+Disallow: /haberler/ozet/
+Disallow: /okurtemsilcisi/
+Disallow: /yerelsecim2009/
+Disallow: /widgets/
+Disallow: /_includes/
+Disallow: /_othernews/
+Disallow: /_test/
+Disallow: /video/embed/
+Disallow: /video/arama/
+
+User-agent: Flipboard
+User-agent: FlipboardProxy
+Allow: /api/
+
+User-agent: YandexNews
+Allow: /winapp/yandexnews.aspx

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy/
+Disallow: /terms-of-service/
+Disallow: /element/down?*
+Disallow: /back/down?*
+Disallow: /photos/down?*
+Disallow: /template/down?*
+Disallow: /ppt/down?*
+Disallow: /iconfont/down?*
+User-agent: MauiBot
+Disallow: /

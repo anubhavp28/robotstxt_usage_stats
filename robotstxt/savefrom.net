@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Allow: /js/
+Allow: /css/
+Allow: /assets/
+Allow: /*?v
+Disallow: /*&
+Disallow: /*utm_
+
+Host: https://savefrom.net

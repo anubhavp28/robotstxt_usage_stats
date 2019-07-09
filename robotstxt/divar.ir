@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: /*.apk$
+Disallow: /*.gz$
+Disallow: /p/
+Disallow: /manage/
+Disallow: /archived/
+Allow: *.js
+Sitemap: https://divar.ir/sitemaps-divar.xml

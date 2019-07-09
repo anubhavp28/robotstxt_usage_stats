@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /subject
+Allow: /classes
+Allow: /usernames
+Allow: /features
+Allow: /*-diagram
+Allow: /*-flash-cards
+Disallow: /ajax
+Disallow: /tts
+Disallow: /pdfs
+Disallow: /*/recreate-set
+Disallow: /*/print$
+Disallow: /authorize
+Disallow: /join
+Disallow: /*/gravity$
+Disallow: /*/gravity/starred$
+Disallow: /*/gravity/embed
+Disallow: /*/learn$
+Disallow: /*/learn/starred$
+Disallow: /*/learn/embed
+Disallow: /*/spell$
+Disallow: /*/spell/starred$
+Disallow: /*/spell/embed
+Disallow: /*/match$
+Disallow: /*/match/starred$
+Disallow: /*/match/embed
+Disallow: /*/write$
+Disallow: /*/write/starred$
+Disallow: /*/write/embed
+
+User-agent: msnbot
+Crawl-delay: 1
+
+User-agent: bingbot
+Crawl-delay: 1

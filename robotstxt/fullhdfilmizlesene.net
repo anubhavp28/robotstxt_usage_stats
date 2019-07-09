@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /*?ref=*
+Disallow: /*?arama=*
+Disallow: /arama?ara=*
+Disallow: /arama/
+Disallow: /filmrobot/
+Disallow: /reklam/
+Disallow: /player/
+Disallow: /reklam/
+Disallow: /rek/
+Disallow: /rkl/
+Disallow: /rkk/
+Disallow: /temalar/
+Disallow: /filmrobot-ajax.php
+
+Sitemap: https://www.fullhdfilmizlesene.net/smap.php

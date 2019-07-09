@@ -1,0 +1,1924 @@
+
+
+
+
+
+<!--[if IE]><![endif]--><!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+
+
+
+
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+    
+    <meta charset="utf-8" />
+    <title>404: Not Found - American Chemical Society</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="description" content="American Chemical Society: Chemistry for Life." />
+    <meta name="author" content="" />
+    <meta name="content_id" content="665c91f7-f95a-40c9-b14a-e54e50f7118e" />
+    <meta name="audience" content="All" />
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="404: Not Found - American Chemical Society" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.acs.org/content/acs/en/system/404.html" />
+    <meta property="og:description" content="American Chemical Society: Chemistry for Life." />
+    
+    <meta property="og:site_name" content="American Chemical Society" />
+
+    <!-- Twitter Meta Tags-->
+    
+    <meta name="twitter:site" content="@AmerChemSociety">
+    <meta name="twitter:title" content="404: Not Found - American Chemical Society">
+    <meta name="twitter:description" content="American Chemical Society: Chemistry for Life.">
+    <meta name="twitter:image" content="http://assets.acs.org/acs-bootstrap/v2.0/images/acs-logo-facebook.png">
+
+    <!-- AEM-630 last modified -->
+    <meta http-equiv="last-modified" content="11-27-2017" />
+
+    <!-- SEARCH-157 ISO-format last modified date -->
+    <meta http-equiv="modifiedDate" content="2017-11-27" />
+
+ 
+
+    <link href="/etc/designs/acs/static.css" rel="stylesheet" type="text/css">
+<link href="/etc/designs/acs.css" rel="stylesheet" type="text/css">
+
+
+    
+    <script>
+    var _prum = [['id', '5182d37babe53d3b66000000'],
+                 ['mark', 'firstbyte', (new Date()).getTime()]];
+    (function() {
+        var s = document.getElementsByTagName('script')[0]
+          , p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+    })();
+    </script>
+    
+
+    
+
+
+
+
+
+
+<script type="text/javascript">
+    // setup the ACS name space
+    window.acs = {
+        assetDomain : 'assets.acs.org',
+        assetUrl : '//assets.acs.org/v2.0/acs-bootstrap/',
+        jsBaseUrl : '//assets.acs.org/v2.0/acs-bootstrap/js/',
+        search : {
+            configs : {
+                sayt : {
+                    responderUrl : 'https://search.acs.org/content/search/acs/en/search.sayt.json',
+                    maxGSAResults: 5,
+                    maxWsoResults: 5,
+                    saytOrder: 1
+                }
+            }
+        },
+        foresee : {
+            configs: {
+                files : '//assets.acs.org/v2.0/aem/js/vendor/foresee/',
+                replay_id : 'production'
+            }
+        },
+        page : {
+            path : '/content/acs/en/system/404',
+            protected : false,
+            whitelist : []
+        },
+        sso: {
+            heartbeat: {
+                gif: 'https://sso.acs.org/idp/heartbeat?appid=ACSWWW',
+                promptDuration: 240000,
+                sessionDuration: 1800000,
+                expmessage: '<p>For your safety, we logged you out automatically after 30 minutes of inactivity. Anything you were working on that was not saved has been lost. <a href=\'#\' onclick=\'document.location.reload();return false;\'>Refresh the page</a> to login or continue.</p>',
+                promptmessage: '<h2><span>Still there, or gone to get coffee???</span></h2><p>For your security, this online session is about to end due to inactivity.</p><p>If you do not respond, everything you entered on this page&#8212;including access to member-only content&#8212;will be lost and you will have to login again.</p>'
+            },
+            statusUrl: 'https://sso.acs.org/idp/status',
+            loginUrl: 'https://www.acs.org/bin/acs/sso/login',
+            logoutUrl: 'https://sso.acs.org/idp/logout',
+            localLogout: 'https://www.acs.org/bin/acs/sso/session?action=logout',
+            globalLogoutUrl: 'https://sso.acs.org/idp/glogout?appid=ACSWWW',
+            acctManagementUrl: 'https://myaccount.acs.org/myaccount/HomePage.html',
+            omrUrl: 'https://www.renew.acs.org',
+            omaUrl: 'https://join.acs.org/eweb/ACSOMATemplate.aspx?site=ACS_OMA&WebCode=CreateAccount&sc=190101_join_button_GlobalNav_od',
+            acsNetworkUrl: '//communities.acs.org/',
+            acsNetworkOptInUrl: 'https://acsnwoptin.acs.org/acsnwoptin/optin',
+            acsDonateUrl: 'https://www.donate.acs.org/eWeb/ACSOLGTemplate.aspx?site=ACS_Giving&WebCode=allprograms&cid=nv_donate_global',
+            acsDonateLandingUrl: 'https://www.acs.org/donate',
+            changeContact: 'https://www.acs.org/content/acs/en/help/change-your-contact-information.html',
+            emailSubscription: 'https://www.emailcenter.acs.org/eweb/ACSEmailTemplate.aspx?site=ACS_Email&WebCode=emailManagement',
+            techDivision: 'https://myaccount.acs.org/myaccount/TechDivision.html',
+            acsMembershipUrl: 'https://www.acs.org/content/acs/en/membership.html?sc=190101_join_button_GlobalNav_od',
+            acsMembershipBenefitsUrl: 'https://www.acs.org/content/acs/en/membership/member-benefits.html',
+            acsStoreUrl: 'https://www.store.acs.org',
+            acsVolunteerUrl: 'https://www.acs.org/volunteer',
+            appid: 'ACSWWW'
+        }
+    }
+</script>
+
+    
+      <script type="text/javascript">
+      // Instructions: please embed this snippet directly into every page in your website template.
+      // For optimal performance, this must be embedded directly into the template, not referenced
+      // as an external file.
+
+      // Answers Cloud Services Embed Script v1.02
+      // DO NOT MODIFY BELOW THIS LINE *****************************************
+      ;(function (g) {
+          var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                  aex = {
+                      "src": "//gateway.answerscloud.com/acs-org/production/gateway.min.js",
+                      "type": "text/javascript",
+                      "async": "true",
+                      "data-vendor": "acs",
+                      "data-role": "gateway"
+                  };
+          for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+          h.appendChild(am);
+          g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+      })(window);
+      // DO NOT MODIFY ABOVE THIS LINE *****************************************
+      </script>
+    
+
+    <script src="//assets.acs.org/v2.0/acs-bootstrap/js/vendor/modernizr.js"></script>
+
+    
+    
+
+
+
+
+
+
+<!-- Load typekit cache -->
+<script>
+    !function(e,t,n,a,c,l,m,o,d,f,h,i){c[l]&&(d=e.createElement(t),d[n]=c[l],e[a]("head")[0].appendChild(d),e.documentElement.className+=" wf-cached"),function s(){for(d=e[a](t),f="",h=0;h<d.length;h++)i=d[h][n],i.match(m)&&(f+=i);f&&(c[l]="/**/"+f),setTimeout(s,o+=o)}()}(document,"style","innerHTML","getElementsByTagName",localStorage,"tk",/^@font|^\.tk-/,100);
+</script>
+<!-- Load typekit -->
+<script>
+    (function() {
+
+        getCountryCode();
+
+        function getCountryCode() {
+            // nothing we can do but load typekit when storage isn't supported
+            if (!window.localStorage) {
+                loadTypeKit();
+            }
+
+            var currentCountryCode = localStorage.getItem('acsCountryCode');
+
+            if (!currentCountryCode) {
+                getCountryCodeAPI();
+            } else {
+                loadTypeKit(currentCountryCode);
+            }
+        }
+
+        function getCountryCodeAPI() {
+            var client = new XMLHttpRequest();
+            client.open('GET', window.location.pathname, true);
+            client.send();
+            client.onreadystatechange = function() {
+                if (this.readyState == this.HEADERS_RECEIVED) {
+                    var isoCode = client.getResponseHeader('x-country');
+                    var countryCode = isoCode || 'US';
+                    console.log('Country Code ==>', countryCode);
+
+                    localStorage.setItem('acsCountryCode', countryCode);
+                    loadTypeKit(countryCode);
+                }
+            }
+        }
+
+        function loadTypeKit(countryCode) {
+            // dont load for China users
+            if (countryCode === 'CN') { return; }
+
+            // straight from Adobe Typekit advanced embed code, just replace kitId
+            var config = {
+                kitId: "lpb8fzz",
+                scriptTimeout: 3000,
+                async: true },
+                h=document.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},
+                config.scriptTimeout),tk=document.createElement("script"),f=false,s=document.getElementsByTagName("script")[0],a;h.className+=" wf-loading";
+                tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;
+                tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);
+                try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        }
+    })();
+</script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="//assets.acs.org/v3.0/acs-bootstrap/css/acs-bootstrap.css?v=01"/>
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="//assets.acs.org/v2.0/aem/css/main.css"/>
+    <link rel="stylesheet" type="text/css" media="print" href="//assets.acs.org/v2.0/aem/css/print.css"/>
+    <link rel="shortcut icon" href="//assets.acs.org/v2.0/acs-bootstrap/images/favicon.ico"/>
+
+    
+        <script src="//assets.adobedtm.com/40b40c7ad89ae2cba04e4f0fb40ba9419c44847b/satelliteLib-697fecf8946b8fb6abd08fc2c6b767b87db83649.js"></script>
+    
+
+</head>
+
+
+
+
+
+<body class="article ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="banner acsBanner parbase">
+
+
+
+
+
+
+
+
+<!--googleoff: index -->
+
+
+
+
+
+
+
+
+
+<div id="browserAlert" class="alert alert-info alert-dismissible search-ignore" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <div class="container">
+
+        <h3><span>Your browser is looking a little out of date...</span></h3>
+        <p>To get the best possible experience using our website, we recommend that you upgrade to latest version of this browser or install another web browser. See our <a href="/content/acs/en/system/browser-support.html" target="_blank">Browser Support/Compatibility page</a> for supported browsers list.</p>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox"> Don't show this again!
+            </label>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--====== NEW NAV ====== -->
+<nav class="hat search-ignore">
+    <ul class="pubs hat__list">
+        
+            <li class="pubs__item"><a href="/content/acs/en.html" class="pubs__link">ACS</a></li>
+        
+            <li class="pubs__item"><a href="http://pubs.acs.org/" class="pubs__link">Publications</a></li>
+        
+            <li class="pubs__item"><a href="http://cen.acs.org/" class="pubs__link">C&EN</a></li>
+        
+            <li class="pubs__item"><a href="http://www.cas.org/" class="pubs__link">CAS</a></li>
+        
+    </ul>
+
+    <a class="hat__menu-back">< Back</a>
+
+    <button class="hat__search-button"></button>
+
+    <div id="member-menu" class="members loading-button"></div>
+
+    <button class="hat__menu-button"></button>
+</nav>
+
+
+<!--googleon: index-->
+
+</div>
+
+	<div class="header acsHeader parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="menu search-ignore">
+    <a href="/content/acs/en.html" class="menu__logo">
+        <img alt="American Chemical Society, Chemistry for Life Â®" src="//assets.acs.org/v2.0/acs-bootstrap/images/acs-logo.svg"/>
+    </a>
+
+    <ul class="menu__list">
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/meetings.html" class="menu__link ">Meetings & Events</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/meetings.html" class="menu-sub-header__link">Meetings & Events</a></h4>
+                            <p class="menu-sub__description">Network with colleagues and access the latest research in your field</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/national-meeting.html" class="menu-sub__link">National Meeting & Exposition</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/regional.html" class="menu-sub__link">Regional Meetings</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/greenchemistryconferences.html" class="menu-sub__link">Green Chemistry Conferences</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/events-calendar.html" class="menu-sub__link">Events Calendar</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/programming-resources.html" class="menu-sub__link">Submit an Abstract</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/meetings/national-meeting/events/career-fair.html" class="menu-sub__link">Career Navigator LIVE!</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/leadership.html" class="menu-sub__link">Leadership Development</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="https://proed.acs.org/" class="menu-sub__link">Professional Education</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/acs-webinars.html" class="menu-sub__link">ACS Webinars</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/meetings.html" class="menu-sub__view-all">View all Meetings & Events</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/meetings/national-meeting.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage/image.img.png/1558551021415.png' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage/image.img.png/1558551021415.png' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage/image.img.png/1558551021415.png' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage/image.img.png/1558551021415.png' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage/image.img.png/1558551021415.png" alt="Fall 2019 National Meeting and Expo" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/meetings/national-meeting.html">Fall 2019 National Meeting and Expo</a></b><br />
+<small>August 25 - 29, 2019  |  San Diego, CA</small><br />
+</p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/careers.html" class="menu__link ">Careers</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/careers.html" class="menu-sub-header__link">Careers</a></h4>
+                            <p class="menu-sub__description">Launch and grow your career with career services and resources</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/developing-growing-in-your-career.html" class="menu-sub__link">Develop and grow in your career</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/finding-landing-a-job.html" class="menu-sub__link">Find and land a job</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/exploring-career-options.html" class="menu-sub__link">Explore career options</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/finding-networking-opportunities.html" class="menu-sub__link">Find networking opportunities</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/membership-and-networks.html" class="menu-sub__link">Professional Communities</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/careers/career-fair.html" class="menu-sub__link">Career Events</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/careers.html" class="menu-sub__view-all">View all Careers</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/careers.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy/image.img.png/1557522672999.png' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy/image.img.png/1557522672999.png' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy/image.img.png/1557522672999.png' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy/image.img.png/1557522672999.png' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy/image.img.png/1557522672999.png" alt="Explore Career Options" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/careers.html">Explore Career Options</a></b><br />
+<small>Let ACS help you navigate your career journey with tools, personal coaching and networking.</small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/education.html" class="menu__link ">Students & Educators</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/education.html" class="menu-sub-header__link">Students & Educators</a></h4>
+                            <p class="menu-sub__description">Promoting excellence in science education and outreach</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/educators.html" class="menu-sub__link">For Educators</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/students.html" class="menu-sub__link">For Students</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/educators/coursesworkshops.html" class="menu-sub__link">Courses for Educators</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/whatischemistry.html" class="menu-sub__link">Explore Chemistry</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/policies.html" class="menu-sub__link">Standards & Guidelines</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/outreach.html" class="menu-sub__link">Outreach</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/publications.html" class="menu-sub__link">Education Publications</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="https://teachchemistry.org/" class="menu-sub__link">American Association of Chemistry Teachers</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/education.html" class="menu-sub__view-all">View all Students & Educators</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy_copy textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="https://teachchemistry.org/">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy/image.img.png/1557522688240.png' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy/image.img.png/1557522688240.png' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy/image.img.png/1557522688240.png' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy/image.img.png/1557522688240.png' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy_copy/image.img.png/1557522688240.png" alt="American Association of Chemistry Teachers" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="https://teachchemistry.org/">American Association of Chemistry Teachers</a></b><br />
+<small>Discover how AACT can enhance your experience in the chemistry classroom. </small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/membership-and-networks.html" class="menu__link ">Communities</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/membership-and-networks.html" class="menu-sub-header__link">Communities</a></h4>
+                            <p class="menu-sub__description">Find a chemistry community of interest and connect on a local and global level.</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/membership-and-networks/join.html" class="menu-sub__link">Technical Divisions</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/membership-and-networks/ls.html" class="menu-sub__link">Local Sections</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/industry.html" class="menu-sub__link">Industry Resources</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/global/international/chapters.html" class="menu-sub__link">International Chapters</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/greenchemistry/industry-roundtables.html" class="menu-sub__link">Green Chemistry Roundtables</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/membership-and-networks/senior-chemists.html" class="menu-sub__link">Senior Chemists</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/students/college/studentaffiliates.html" class="menu-sub__link">Student Chapters</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/students/highschool/chemistryclubs.html" class="menu-sub__link">High School Club</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/membership-and-networks.html" class="menu-sub__view-all">View all Communities</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy_copy_1248650693 textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/membership-and-networks/join.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_1248650693/image.img.png/1557522695526.png' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_1248650693/image.img.png/1557522695526.png' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_1248650693/image.img.png/1557522695526.png' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_1248650693/image.img.png/1557522695526.png' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_1248650693">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy_copy_1248650693/image.img.png/1557522695526.png" alt="Technical Divisions" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/membership-and-networks/join.html">Technical Divisions</a></b><br />
+<small>Collaborate with scientists in your field of chemistry and stay current in your area of specialization.</small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/pressroom.html" class="menu__link ">Discover Chemistry</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/pressroom.html" class="menu-sub-header__link">Discover Chemistry</a></h4>
+                            <p class="menu-sub__description">Explore the interesting world of science with articles, videos and more.</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/pressroom/presspacs.html" class="menu-sub__link">Science Articles</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/acs-webinars.html" class="menu-sub__link">ACS Webinars</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/greenchemistry.html" class="menu-sub__link">Green Chemistry</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/chemical-safety.html" class="menu-sub__link">Safety</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/pressroom/podcasts/elements.html" class="menu-sub__link">Science Podcasts</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/pressroom/newsreleases.html" class="menu-sub__link">News Releases</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/education/whatischemistry/landmarks.html" class="menu-sub__link">Landmarks in Chemical History</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/pressroom/reactions/infographics.html" class="menu-sub__link">Infographics</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/pressroom.html" class="menu-sub__view-all">View all Discover Chemistry</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy_copy_788906651 textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/education/whatischemistry/periodictable.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_788906651/image.img.png/1557522702096.png' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_788906651/image.img.png/1557522702096.png' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_788906651/image.img.png/1557522702096.png' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_788906651/image.img.png/1557522702096.png' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy_788906651">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy_copy_788906651/image.img.png/1557522702096.png" alt="Celebrate the IYPT 2019" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/education/whatischemistry/periodictable.html">Celebrate the IYPT 2019</a></b><br />
+<small>Learn more about International Year of Periodic Table</small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/awards.html" class="menu__link ">Awards</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/awards.html" class="menu-sub-header__link">Awards</a></h4>
+                            <p class="menu-sub__description">Recognizing and celebrating excellence in chemistry and celebrate your achievements</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/national.html" class="menu-sub__link">National Awards</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/industry.html" class="menu-sub__link">Industry Awards</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/division.html" class="menu-sub__link">Technical Division Awards</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/other/student.html" class="menu-sub__link">Student Awards</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/other/educator.html" class="menu-sub__link">Educator Awards</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/other/travel.html" class="menu-sub__link">Travel Awards</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/community.html" class="menu-sub__link">Community Recognition</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/regional.html" class="menu-sub__link">Regional Awards</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/awards/gci.html" class="menu-sub__link">Green Chemistry Awards</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/awards.html" class="menu-sub__view-all">View all Awards</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy_copy__32870881 textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/funding-and-awards/scholarships/acsscholars.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__32870881/image.scale.large.jpg/1558536504489.jpg' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__32870881/image.scale.medium.jpg/1558536504489.jpg' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__32870881/image.scale.small.jpg/1558536504489.jpg' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__32870881/image.scale.xsmall.jpg/1558536504489.jpg' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__32870881">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy_copy__32870881/image.img.jpg/1558536504489.jpg" alt="ACS Scholars" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/funding-and-awards/scholarships/acsscholars.html">ACS Scholars</a></b><br />
+<small>Scholarships for underrepresented minority students majoring in undergraduate chemistry-related disciplines</small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item">
+               
+                <a href="/content/acs/en/funding-and-awards.html" class="menu__link ">Funding</a>
+                
+                    <div class="menu__sub">
+                        <div class="menu-sub__intro">
+                            <h4 class="menu-sub__header"><a href="/content/acs/en/funding-and-awards.html" class="menu-sub-header__link">Funding</a></h4>
+                            <p class="menu-sub__description">Funding to support the advancement of the chemical sciences through research projects.</p>
+                        </div>
+                        <div class="menu-sub__toc">
+                            
+                                <ul class="menu-sub__list">
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/prf.html" class="menu-sub__link">Petroleum Research Fund</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/teva-pharmaceuticals-scholars-grants.html" class="menu-sub__link">Teva Pharmaceuticals</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/gci.html" class="menu-sub__link">GCI Pharmaceutical Roundtable</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/policy/policyfellowships/programs.html" class="menu-sub__link">Policy Fellowships</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/sigalfellowship.html" class="menu-sub__link">Irving S. Sigal Postdoc Fellowship</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/acscommunity.html" class="menu-sub__link">Community Recognition Grants</a></li>
+                                        
+                                            </ul>
+                                            <ul class="menu-sub__list">
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/frasch.html" class="menu-sub__link">Herman Frasch Foundation</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/hachprograms.html" class="menu-sub__link">Educator Grants & Scholarships</a></li>
+                                        
+                                    
+                                        <li class="menu-sub__item"><a href="/content/acs/en/funding-and-awards/grants/acscommunity/studentaffiliatechaptergrants.html" class="menu-sub__link">Student Chapter Grants</a></li>
+                                        
+                                    
+                                </ul>
+                            
+                        </div>
+                        <a href="/content/acs/en/funding-and-awards.html" class="menu-sub__view-all">View all Funding</a>
+                        
+                            
+                            <div class="menu-sub__promo"><div class="megamenuContent parsys"><div class="reference parbase section"><div class="cq-dd-paragraph"><div class="textimage_copy_copy__1778912246 textimage parbase">
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+	<div id="_slash_content_slash_acs_slash_en_slash_system_slash_404" class="clearfix ">
+		
+			<div class="image_center image-div">
+				
+					
+						<a href="/content/acs/en/funding-and-awards/awards/other/travel.html">
+							<picture>
+		<!--[if IE 9]>
+		<video style="display: none;"><![endif]-->
+		
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__1778912246/image.scale.large.jpg/1558465047327.jpg' media="(min-width: 1280px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__1778912246/image.scale.medium.jpg/1558465047327.jpg' media="(min-width: 1024px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__1778912246/image.scale.small.jpg/1558465047327.jpg' media="(min-width: 768px)">
+			<source srcset='/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__1778912246/image.scale.xsmall.jpg/1558465047327.jpg' media="(min-width: 1px)">
+		
+		<!--[if IE 9]></video><![endif]-->
+		<div class="image" id="cq-textimage-jsp-/content/acs/en/features/megamenu-promo/jcr:content/articleContent/textimage_copy_copy__1778912246">
+            <img src="/content/acs/en/features/megamenu-promo/_jcr_content/articleContent/textimage_copy_copy__1778912246/image.img.jpg/1558465047327.jpg" alt="ACS Travel Award" title=" " class="cq-dd-image">
+            
+        </div>
+	</picture>
+						</a>
+					
+					
+				
+
+				<div class="image-info" >
+					
+					
+				</div>
+				
+			</div>
+		
+        <div class="text cq-dd-image"><p style="margin-top: 0.5em;"><b><a href="/content/acs/en/funding-and-awards/awards/other/travel.html">ACS Travel Award</a></b><br />
+<small>Learn more about travel awards for those attending scientific meetings to present the results of their research.</small></p>
+</div>
+	</div>
+	
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+                            
+                        
+                    </div>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/about.html" class="menu__link ">About ACS</a>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/membership.html" class="menu__link ">Membership</a>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/greenchemistry.html" class="menu__link ">Green Chemistry</a>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/chemical-safety.html" class="menu__link ">Chemical & Laboratory Safety</a>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/donate.html" class="menu__link ">Donate</a>
+                
+
+            </li>
+        
+            <li class="menu__item menu__no-sub">
+               
+                <a href="/content/acs/en/volunteer.html" class="menu__link ">Volunteer</a>
+                
+
+            </li>
+        
+    </ul>
+
+    <a href="https://join.acs.org/eweb/ACSOMATemplate.aspx?site=ACS_OMA&WebCode=CreateAccount&sc=190101_join_button_GlobalNav_od" class="menu__join">Join ACS</a>
+    <div id="search">
+        <div class="search acsSearch parbase">
+
+
+
+
+
+
+<form action="https://search.acs.org/content/search/acs/en/search.html" method="get" role="search" class="search-form">
+    
+        <button class="search-form__close" type="button"></button>
+    
+    <input type="text" name="q" id="searchsite" class="search-form__input" title="Enter keywords to search" placeholder="Search">
+    <input type="hidden" value="acs_r2" name="client"/>
+    <input type="hidden" value="xml_no_dtd" name="output"/>
+    <input type="hidden" value="acs_r2" name="proxystylesheet"/>
+    <input type="hidden" value="date:D:L:d1" name="sort"/>
+    <input type="hidden" value="3" name="entqr"/>
+    <input type="hidden" value="UTF-8" name="oe"/>
+    <input type="hidden" value="UTF-8" name="ie"/>
+    <input type="hidden" value="1" name="ud"/>
+    <input type="hidden" value="acs" name="site"/>
+    <input type="hidden" value="p" name="filter"/>
+    <input type="image" height="21" width="27" alt="Search" class="search-submit" src="//assets.acs.org/v2.0/aem/images/search-btn.jpg"/>
+    
+        <button class="search-form__button"></button>
+    
+</form>
+
+</div>
+
+    </div>
+</nav>
+<!--====== END NEW NAV ====== -->
+
+
+</div>
+
+
+
+
+	<!--====== start  page content ====== -->
+		
+
+
+
+
+
+<div id="bd" role="main"><!--=== main well start ===-->
+	
+		
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12">
+			            <div class="acsBreadcrumb breadcrumbNav parbase">
+
+
+
+
+
+
+
+
+<!--googleoff: index-->
+<!-- start breadcrumb nav -->
+
+<!-- end breadcrumb nav -->
+<!--googleon: index-->
+
+</div>
+
+						
+						<div class="articleContent parsys"><div class="columnsBootstrap parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container ">
+
+  
+
+    <div class="row rowOdd">
+      
+          <div class="col-md-8 col-xs-12 columnOne columnOdd">
+              <div class="column0 parsys"><div class="image parbase section">
+
+
+
+
+
+
+
+
+<div class="container">
+    
+    
+        <div id="_jcrAC_columnsbootstrap_slash_column0_slash_image" class="clearfix">
+            <div class="image_left image-div">
+                
+                    
+                    
+                        <picture>
+        <!--[if IE 9]>
+        <video style="display: none;"><![endif]-->
+        
+            <source srcset='/content/acs/en/system/404/jcr:content/articleContent/columnsbootstrap/column0/image.scale.large.jpg/1393528320976.jpg' media="(min-width: 1280px)">
+            <source srcset='/content/acs/en/system/404/jcr:content/articleContent/columnsbootstrap/column0/image.scale.medium.jpg/1393528320976.jpg' media="(min-width: 1024px)">
+            <source srcset='/content/acs/en/system/404/jcr:content/articleContent/columnsbootstrap/column0/image.scale.small.jpg/1393528320976.jpg' media="(min-width: 768px)">
+            <source srcset='/content/acs/en/system/404/jcr:content/articleContent/columnsbootstrap/column0/image.scale.xsmall.jpg/1393528320976.jpg' media="(min-width: 1px)">
+        
+        <!--[if IE 9]></video><![endif]-->
+        
+        <div id="cq-image-jsp-/content/acs/en/system/404/jcr:content/articleContent/columnsbootstrap/column0/image"><img src="/content/acs/en/system/404/_jcr_content/articleContent/columnsbootstrap/column0/image.img.jpg/1393528320976.jpg" alt=" " title=" " class="cq-dd-image"></div>
+    </picture>
+                    
+                
+                
+                 
+                    <div class="image-info" >
+                        
+                        
+                    </div>
+                
+            </div>
+        </div>
+    
+    
+</div>
+</div>
+<div class="text parbase section">
+
+
+
+
+
+
+<div class="container">
+
+<div class="">
+	<p>&nbsp;</p>
+<h2><span><b>We're sorry</b>.</span></h2>
+<p>We can't find the page you requested. It either moved or has been deleted.</p>
+<h4>Helpful Links</h4>
+<ul>
+<li><a href="/content/acs/en/meetings/national-meeting.html">Upcoming ACS National Meeting</a></li>
+<li><a href="/content/acs/en/education/resources/highschool/chemmatters.html">ChemMatters</a></li>
+<li><a href="/content/acs/en/careers/continuing.html" adhocenable="false">Professional Education</a></li>
+<li><a href="https://www.donate.acs.org/eweb/ACSOLGTemplate.aspx?site=ACS_Giving&amp;WebCode=allprograms" adhocenable="false">Make a Donation</a></li>
+</ul>
+<p>Need help? <a href="mailto:help@acs.org?subject=page_request">Email us</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</div>
+
+</div>
+</div>
+
+</div>
+
+          </div>
+      
+          <div class="col-md-4 col-xs-12 columnTwo columnEven">
+              <div class="column1 parsys"><div class="text parbase section">
+
+
+
+
+
+
+<div class="container">
+
+<div class=" box-callout rounded">
+	<h4><b>K-12 Teachers:</b></h4>
+<p>Learn about the <a href="http://www.teachchemistry.org/content/aact/en.html">American Association of Chemistry Teachers<b> </b>(AACT</a>), a new membership organization just for you!</p>
+
+</div>
+
+</div>
+</div>
+<div class="horizontalrule parbase section">
+
+
+
+
+
+<div class="container">
+	<hr class="" />
+</div>
+
+</div>
+<div class="text parbase section">
+
+
+
+
+
+
+<div class="container">
+
+<div class=" box-callout box-yellow rounded bordered">
+	<h4><b>Are you looking for What Chemists Do?</b><br>
+</h4>
+<p><a href="/content/acs/en/careers/college-to-career.html" adhocenable="false">Visit <b>College to Career</b></a>, your new and improved source for:</p>
+<ul>
+<li>Chemistry career descriptions</li>
+<li>Information about the different areas of chemistry</li>
+<li>Job search resources and advice</li>
+<li>And more!<br>
+</li>
+</ul>
+
+</div>
+
+</div>
+</div>
+
+</div>
+
+          </div>
+      
+    </div>
+
+    
+
+
+</div>
+</div>
+
+</div>
+
+						<div class="discussions">
+
+
+
+
+
+
+
+
+<div class="container">
+
+
+
+</div></div>
+
+					</div>
+				</div><!-- /row-fluid -->
+			</div>
+		
+		
+		
+		
+	
+</div><!--=== main well end ===-->
+<!-- sharebar2 -->
+<div class="sharebar2_footer">
+	<div class="container">
+		<div class="sharebar2_label">Share this page:</div>
+		<div class="addthis sharebar2 parbase"><!-- ACS Sharebar 2.0 BEGIN -->
+<div class="sharebar2 ">
+    
+<!-- ACS Network -->
+<a href="javascript:window.open('https://communities.acs.org/create-favorite-bookmarklet!input.jspa?url=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html&subject=', '_blank');void(0);" class="social-icon acsnetwork" title="ACS Network">
+    <span class="hiddenButRead">ACS Network</span>
+</a>
+
+    <!-- Facebook -->
+<a href="javascript:window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html', '_blank', 'width=450,height=550');void(0);" class="social-icon facebook" title="Facebook">
+    <span class="hiddenButRead">Facebook</span>
+</a>
+
+    <!-- LinkedIn -->
+<a href="javascript:window.open('https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html&title=', '_blank', 'width=450,height=550');void(0);" class="social-icon linkedin" title="LinkedIn">
+    <span class="hiddenButRead">LinkedIn</span>
+</a>
+
+    <!-- Twitter -->
+<a href="javascript:window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html&text=', '_blank', 'width=450,height=550');void(0);" class="social-icon twitter" title="Tweet">
+    <span class="hiddenButRead">Twitter</span>
+</a>
+
+    <!-- Google+ -->
+<a href="javascript:window.open('https://plus.google.com/share?url=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html', '_blank', 'width=450,height=550');void(0);" class="social-icon googleplus" title="Google+">
+    <span class="hiddenButRead">Google+</span>
+</a>
+
+    <!-- Pinterest -->
+<a href="javascript:window.open('https://pinterest.com/pin/create/bookmarklet/?media=http%3A%2F%2Fassets.acs.org%2Facs-bootstrap%2Fv2.0%2Fimages%2Facs-logo-facebook.png&url=https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html&is_video=false&description=', '_blank', 'width=450,height=550');void(0);" class="social-icon pinterest" title="Pinterest">
+    <span class="hiddenButRead">Pinterest</span>
+</a>
+
+    <!-- Email -->
+<a href="mailto:?subject=&amp;body=American%20Chemical%20Society%3A%20Chemistry%20for%20Life.%20-%20https%3A%2F%2Fwww.acs.org%2Fcontent%2Facs%2Fen%2Fsystem%2F404.html" class="social-icon email" title="Email">
+    <span class="hiddenButRead">Email</span>
+</a>
+</div>
+<!-- ACS Sharebar 2.0 END -->
+</div>
+
+	</div>
+</div>
+<!-- /sharebar2 -->
+
+
+	<!--====== end  page content ====== -->
+
+
+	<div class="footer acsFooter parbase">
+
+
+
+
+
+
+<!--googleoff: index-->
+<div id="ft" class="search-ignore extended" role="contentinfo">
+	<div class="container">
+		
+			<div id="ft-sitemap">
+				<div class="sitemap-col">
+					<a href="/content/acs/en.html" class="footer__logo"><img alt="American Chemical Society, Chemistry for Life" src="//assets.acs.org/v2.0/acs-bootstrap/images/acs-logo-white.svg"/></a>
+				</div>
+				<div class="sitemap-col">
+					<div class="footerCol1 acsFooterLinkList parbase">
+
+
+
+
+
+
+
+	
+		<dl class="sitemap-cat">
+			<dt>
+				GET TO KNOW US
+			</dt>
+			
+				<dd>
+					<a href="/content/acs/en/about.html?sc=180808_GlobalFooter_od">About ACS</a>
+				</dd>
+			
+				<dd>
+					<a href="/content/acs/en/pressroom/news-room.html?sc=180808_GlobalFooter_od">Press Room</a>
+				</dd>
+			
+				<dd>
+					<a href="https://jobs.acs.org/?utm_source=careersite">Jobs at ACS</a>
+				</dd>
+			
+				<dd>
+					<a href="/content/acs/en/about/governance.html?sc=180808_GlobalFooter_od">Governance</a>
+				</dd>
+			
+				<dd>
+					<a href="https://www.store.acs.org/?sc=180808_GlobalFooter_od">ACS Store</a>
+				</dd>
+			
+		</dl>
+	
+	
+
+</div>
+
+				</div>
+				<div class="sitemap-col">
+					<div class="footerCol2 acsFooterLinkList parbase">
+
+
+
+
+
+
+
+	
+		<dl class="sitemap-cat">
+			<dt>
+				JOIN US
+			</dt>
+			
+				<dd>
+					<a href="https://join.acs.org/eweb/ACSOMATemplate.aspx?site=ACS_OMA&amp;WebCode=CreateAccount&amp;sc=190101_GlobalFooter_od">Join ACS</a>
+				</dd>
+			
+				<dd>
+					<a href="http://www.renew.acs.org?sc=190101_GlobalFooter_od">Renew Membership</a>
+				</dd>
+			
+				<dd>
+					<a href="/content/acs/en/membership/member-benefits.html?sc=190101_GlobalFooter_od">Member Benefits</a>
+				</dd>
+			
+		</dl>
+	
+	
+
+</div>
+
+				</div>
+				<div class="sitemap-col">
+					<div class="footerCol3 acsFooterLinkList parbase">
+
+
+
+
+
+
+
+	
+		<dl class="sitemap-cat">
+			<dt>
+				GET INVOLVED
+			</dt>
+			
+				<dd>
+					<a href="/content/acs/en/donate.html?sc=180808_GlobalFooter_od">Donate</a>
+				</dd>
+			
+				<dd>
+					<a href="/content/acs/en/volunteer.html?sc=180808_GlobalFooter_od">Volunteer</a>
+				</dd>
+			
+				<dd>
+					<a href="https://communities.acs.org/welcome?sc=180808_GlobalFooter_od">ACS Network</a>
+				</dd>
+			
+		</dl>
+	
+	
+
+</div>
+
+				</div>
+				<div class="sitemap-col">
+					<h4 class="footer__title">Follow Us</h4>
+					<div class="ft-social-links">
+						
+							<a href="https://www.facebook.com/AmericanChemicalSociety" class="social-icon facebook" title="Follow us on Facebook"></a>
+						
+						
+							<a href="https://twitter.com/AmerChemSociety" class="social-icon twitter" title="Follow us on Twitter"></a>
+						
+						
+							<a href="https://www.linkedin.com/company/american-chemical-society" class="social-icon linkedin" title="Follow us on LinkedIn"></a>
+						
+						
+							<a href="https://www.instagram.com/amerchemsociety/?hl=en" class="social-icon instagram" title="Follow us on Instagram"></a>
+						
+					</div>
+				</div>
+			</div>
+		
+
+		<div class="ft-acs-address">
+			<div class="footerText text parbase">
+
+
+
+
+
+
+<div class="container">
+
+<div class="">
+	<p>1155 Sixteenth Street, NW, Washington, DC 20036, USA |&nbsp;<a href="mailto:service@acs.org">service@acs.org</a>&nbsp;|&nbsp;1-800-333-9511 (US and Canada) | 614-447-3776 (outside North America)</p>
+
+</div>
+
+</div>
+</div>
+
+		</div>
+	</div>
+	<div class="ft-links">
+			<div class="container">
+				<ul>
+				<li><a href="#top">Top ^</a></li>
+				<li><a href="/content/acs/en/terms.html">Terms of Use</a></li>
+				<li><a href="/content/acs/en/security.html">Security</a></li>
+				<li><a href="/content/acs/en/privacy.html">Privacy</a></li>
+				<li><a href="/content/acs/en/accessibility-statement.html">Accessibility</a></li>
+				<li><a href="/content/acs/en/sitemap.html">Site Map</a></li>
+				<li><a href="/content/acs/en/contact.html">Contact</a></li>
+				<li><a href="/content/acs/en/help.html">Help</a></li>
+			</ul>
+			<p><a href="/content/acs/en/copyright.html">Copyright &copy;</a> 2019 American Chemical Society</p>
+		</div>
+	</div>
+</div>
+	<!-- end footer -->
+<!--googleon: index-->
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var pagedata = {
+    "path": "/content/acs/en/system/404",
+    "title": "404: Not Found",
+    "omniDomain": "ACS.org",
+    "omniPageName": "System:system/404",
+    "omniChannel": "System",
+    "omniHier1": "System:404",
+    "omniSubSection1": "System:404",
+    "omniSubSection2": "System:404",
+    "omniSubSection3": "System:404",
+    "omniContentId": ""
+}
+</script>
+
+
+
+
+
+
+
+
+
+<div class="heartbeat">
+
+
+
+
+
+
+
+
+<!-- Modal -->
+<img id="heartbeat-sso" src="https://sso.acs.org/idp/heartbeat?appid=ACSWWW" width="1" height="1" border="0" alt=" " style="display:none;"/>
+<div id="heartbeat-dialog" class="modal fade search-ignore" tabindex="-1" role="dialog" aria-hidden="true" data-composer="heartbeat">
+  <div class="modal-header">
+  </div>
+  <div class="modal-body">
+    <div id="heartbeat-message">
+      <h2><span>Still there, or gone to get coffee???</span></h2>
+      <p>For your security, this online session is about to end due to inactivity.</p>
+      <p>If you do not respond, everything you entered on this page will be lost and you will have to login again.</p>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <div id="modal-session-extend"><p>Time remaining: <span id="timeout">00:00</span></p></div>
+    <button id="renew-btn" class="btn btn-primary" data-dismiss="modal" aria-hidden="true">I'm not done yet!</button>
+  </div>
+</div>
+
+</div>
+
+
+
+
+<!-- ACS: Global -->
+<script src="//assets.acs.org/acs-bootstrap/v2.0/js/acs.min.js"></script>
+<!-- ASC: CQ5 -->
+<script src="//assets.acs.org/v2.0/aem/js/main.min.js"></script>
+
+
+
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+
+
+
+
+
+
+
+<div class="clientcontext parbase">
+
+
+
+
+
+<script type="text/javascript" src="/etc/clientlibs/acs/cq.jquery.publish.min.4489175b3e0b5ecd2774b233450ac98b.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/acs/cq.shared.publish.min.7946eabe06a8bc0f2666949dcd9d690b.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/acs/personalization.kernel.publish.min.dda089b0056f41e05c479b4816d1573b.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
+        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/acs","/content/acs/en/system/404");
+
+        
+    });
+</script>
+
+</div>
+
+<div class="cloudservices servicecomponents">
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+acs.profile || (acs.profile = {});
+
+acs.profile.isLoggedIn = false;
+acs.profile.hasAuthToken = false;
+acs.profile.hasEmail = false;
+acs.profile.authorRunMode = false;
+
+if (typeof($CQ) !== 'undefined') {
+    acs.profile.hasQuickSubscribe = $CQ('div.enewslettersubscribe').length ? true : false;
+}
+
+CQ_Analytics.ClientContextUtils.onStoreInitialized("profile",function(store) {
+    if (CQ_Analytics.ProfileDataMgr.getProperty("authorizableId") != null && CQ_Analytics.ProfileDataMgr.getProperty("authorizableId") != 'anonymous') {
+        acs.profile.isLoggedIn = true;
+    }
+    if (CQ_Analytics.ProfileDataMgr.getProperty("oAuthToken") != null) {
+        acs.profile.hasAuthToken = true;
+    }
+    if (CQ_Analytics.ProfileDataMgr.getProperty("email") != null) {
+        acs.profile.hasEmail = true;
+    }
+    if (typeof(CQURLInfo) !== 'undefined') {
+        if (CQURLInfo.runModes.indexOf('author') != -1) {
+            acs.profile.authorRunMode = true;
+        }
+    }
+    if (acs.profile.hasQuickSubscribe && !acs.profile.authorRunMode) {
+        $CQ(window).on("message", function(e) {
+            var data = e.originalEvent.data;
+            if (data =='quickSubscribe') {
+                $CQ('.cq-cc-subscribe-login-form').hide();
+                $CQ('.cq-cc-subscribe-confirm').show();
+            }
+        });
+        var isENewsLetter = ($CQ("#iAmAnENewsletter").length > 0) || ($CQ('.enewslettersubscribe').length >0 ) ;
+        if (isENewsLetter) {
+            if (acs.profile.isLoggedIn && acs.profile.hasEmail) {
+                if (acs.profile.hasAuthToken) {
+                    console.info('hasQuickSubscribe, isLoggedIn and hasEmail: go straight to subscribe request');
+                    $CQ('.enewslettersubscribe .modal').on('show.bs.modal', function() {
+                        $CQ('iframe', this).attr('src', $CQ(this).attr('data-src'));
+                        $CQ('.cq-cc-subscribe-login-form').hide();
+                        $CQ('.cq-cc-subscribe-confirm').show();
+                    });
+                    $CQ('.enewslettersubscribe .modal').on('hide.bs.modal', function() {
+                        $CQ('iframe', this).attr('src', '');
+                        location.reload();
+                    });
+                    $CQ('.cq-cc-subscribe-anonymous').show();
+                    $CQ('.cq-cc-subscribe-default').hide();
+                    $CQ('div.enewslettersubscribe').each(function(index){
+                        var that = this;
+                        var newsletterId = $CQ('h3', this).attr('data-newsletterId');
+                        $CQ.getJSON('/bin/acs/newsletter/service?action=isSubscribed&authToken=' + CQ_Analytics.ProfileDataMgr.getProperty("oAuthToken") + '&mls_key=' + newsletterId, function(response){
+                            if (response.isSubscribed == true) {
+                                $CQ('.cq-cc-subscribe-subscribed', that).show();
+                                $CQ('.cq-cc-subscribe-not-anonymous', that).hide();
+                            }
+                        });
+                    });
+                }
+            }
+            else{
+                console.info('hasQuickSubscribe, isNotLoggedIn and/or no primary email, open modal to login');
+                $CQ('.enewslettersubscribe .modal').on('show.bs.modal', function() {
+                    $CQ('iframe', this).attr('src', $CQ(this).attr('data-src'));
+                });
+                $CQ('.enewslettersubscribe .modal').on('hide.bs.modal', function() {
+                    $CQ('iframe', this).attr('src', '');
+                    location.reload();
+                });
+                $CQ('.enewslettersubscribe .subscribe-new-user').on('click', function() {
+                    var modal = $CQ(this).closest('.modal');
+                    window.location.href = modal.attr('data-src-new');
+                });
+                $CQ('.cq-cc-subscribe-anonymous').show();
+                $CQ('.cq-cc-subscribe-default').hide();
+            }
+        }
+    }
+}, 500);
+</script>
+
+</body>
+
+</html>

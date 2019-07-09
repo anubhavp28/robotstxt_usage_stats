@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: *-print.html$
+Disallow: /sys_*
+Disallow: /search/
+Disallow: /services/
+Disallow: /cms/
+Disallow: */calendar.html
+Sitemap: https://sputniknews.com/sitemap_article_index.xml
+Sitemap: https://sputniknews.com/sitemap_tag_index.xml
+Sitemap: https://sputniknews.com/sitemap_rubric.xml
+Sitemap: https://sputniknews.com/sitemap.xml

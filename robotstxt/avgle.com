@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /siteadmin/
+Disallow: /cache/
+Disallow: /include/
+Disallow: /install/
+Disallow: /language/
+Disallow: /media/video-torrents/
+Disallow: /media/player/
+Disallow: /media/photos/
+Disallow: /media/games/
+Disallow: /media/albums/
+Disallow: /media/videos-hls/
+Disallow: /tmp/
+Disallow: /classes/
+Disallow: /templates/
+Disallow: /scripts/
+Disallow: /addons/
+Disallow: /cron/
+Disallow: /contrib/
+Allow: /templates/frontend/
+Allow: /include/ajax/related_videos.php
+Allow: /media/player/js/swfobject.js
+
+Sitemap: https://avgle.com/sitemap.php?page=1
+Sitemap: https://avgle.com/sitemap.php?page=2
+Sitemap: https://avgle.com/sitemap.php?page=3

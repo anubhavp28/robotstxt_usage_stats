@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /apply/*/*
+Disallow: /apply/
+Disallow: /en/
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /asanapedia/
+Disallow: /internal/
+Disallow: /nike/
+Disallow: /trust.php
+Disallow: /sitemap-extended
+Disallow: /ebook/
+Allow: /assets/dist/css/asana-apps.css
+Allow: /assets/dist/css/asana-guide.css
+Allow: /assets/dist/
+Allow: /assets/html/default.html
+Sitemap: https://asana.com/sitemap-index

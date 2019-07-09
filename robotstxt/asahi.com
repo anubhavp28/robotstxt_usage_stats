@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /video/news/TKY200903050250.html
+Disallow: /kansai/news/OSK200903050055.html
+Disallow: /travel/event/search/
+Disallow: /science/index.html
+Disallow: /entertainment/index.html
+Disallow: /car/index.html
+Disallow: /housing/index.html
+Disallow: /showbiz/column/animagedon/index.html
+Disallow: /english/newsfeatures.html
+Disallow: /english/business.html
+Disallow: /english/cooljapan.html
+Disallow: /english/sports.html
+Allow: /
+
+sitemap: http://www.asahi.com/sitemap.xml
+sitemap: http://www.asahi.com/xml-sitemap-business.xml
+sitemap: http://www.asahi.com/xml_sitemap_politics.xml
+sitemap: http://www.asahi.com/and_M/sitemap.txt
+sitemap: http://www.asahi.com/and_w/sitemap.txt
+sitemap: http://www.asahi.com/ad/sitemap.xml

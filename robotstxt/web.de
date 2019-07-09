@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /test/
+
+User-agent: googlebot-news
+Disallow: /
+Disallow: /magazine/*/thema/
+Allow: /magazine/
+Allow: /amp/
+Allow: /$
+
+#https://web.de/robots.txt

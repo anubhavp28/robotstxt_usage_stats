@@ -1,0 +1,40 @@
+# robotstxt.org
+
+User-agent: *
+Disallow: /pretraga
+Disallow: /*str1
+Disallow: /*str2
+Disallow: /*str3
+Disallow: /*str4
+Disallow: /*str5
+Disallow: /*str6
+Disallow: /*str7
+Disallow: /*str8
+
+Disallow: /*/*/str1*
+Disallow: /*/*/str2*
+Disallow: /*/*/str3*
+Disallow: /*/*/str4*
+Disallow: /*/*/str5*
+Disallow: /*/*/str6*
+Disallow: /*/*/str7*
+Disallow: /*/*/str8*
+Disallow: /*/*/str9*
+
+Disallow: /*/str1*
+Disallow: /*/str2*
+Disallow: /*/str3*
+Disallow: /*/str4*
+Disallow: /*/str5*
+Disallow: /*/str6*
+Disallow: /*/str7*
+Disallow: /*/str8*
+Disallow: /*/str9*
+
+Disallow: /xplayer
+Disallow: /views/*
+Disallow: /xplayeriframe
+Disallow: /nightlife
+
+
+Sitemap: https://www.klix.ba/sitemap.xml

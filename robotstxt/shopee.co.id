@@ -1,0 +1,39 @@
+
+
+
+User-Agent:Googlebot
+User-Agent:Bingbot
+Crawl-delay:0.1
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /buyer/
+Disallow: /user/
+Disallow: /me/
+Disallow: /order/
+Disallow: /daily_discover/
+Disallow: /mall/just-for-you/
+Disallow: /mall/*-cat.
+Disallow: /from_same_shop/
+Disallow: /you_may_also_like/
+Disallow: *-i.*/similar?from=flash_sale
+Disallow: /find_similar_products/
+Disallow: /top_products
+Disallow: /search*searchPrefill
+
+User-Agent:*
+Crawl-delay:1
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /buyer/
+Disallow: /user/
+Disallow: /me/
+Disallow: /order/
+Disallow: /daily_discover/
+Disallow: /mall/just-for-you/
+Disallow: /mall/*-cat.
+Disallow: /from_same_shop/
+Disallow: /you_may_also_like/
+Disallow: *-i.*/similar
+Disallow: /find_similar_products/
+Disallow: /top_products
+Disallow: /search*searchPrefill

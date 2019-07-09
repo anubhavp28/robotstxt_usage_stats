@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /relocate/ 
+Disallow: /static/relotiusdokumentation/ 
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Slurp
+Crawl-delay: 18

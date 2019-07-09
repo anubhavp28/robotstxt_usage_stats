@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /s/
+Disallow: /w/
+Disallow: /download/*/Zoom_launcher.exe
+Disallow: /download/*/zoomusLauncher.zip
+Disallow: /docs/image/new/brand/outdated/
+
+Sitemap: http://zoom.us/sitemap.xml

@@ -1,0 +1,15 @@
+User-agent: YisouSpider
+Disallow: /profile
+
+User-agent: *
+Disallow: /videoRewrite.php
+Disallow: /logins.php
+Disallow: /room/
+Disallow: /api/
+Disallow: /apple/
+Disallow: /event/zx/
+Disallow: /Num1/
+
+Allow: /
+
+Sitemap: http://v.6.cn/sitemaps_index.xml

@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /synsearch/
+Disallow: /brouillon/
+Disallow: /async/
+Disallow: /proxy/
+
+User-agent: Meltwater
+Disallow: /
+
+# News
+Sitemap: http://www.lefigaro.fr/sitemap_news.xml
+
+# Generic sitemaps
+Sitemap: http://sitemaps.lefigaro.fr/lefigaro.fr/sections.xml
+Sitemap: http://sitemaps.lefigaro.fr/lefigaro.fr/articles.xml
+Sitemap: http://sitemaps.lefigaro.fr/lefigaro.fr/topics.xml
+
+# Elections
+Sitemap: https://www.lefigaro.fr/fea/sitemap.xml
+
+# Blogs
+Sitemap: http://www.lefigaro.fr/blogs/sitemap.xml
+
+# Scan Sport
+Sitemap: http://www.lefigaro.fr/le-scan-sport/sitemap.xml
+Sitemap: http://www.lefigaro.fr/le-scan-sport/buzz/sitemap.xml
+Sitemap: http://www.lefigaro.fr/le-scan-sport/people/sitemap.xml
+Sitemap: http://www.lefigaro.fr/le-scan-sport/medias/sitemap.xml
+Sitemap: http://www.lefigaro.fr/le-scan-sport/le-saviez-vous/sitemap.xml
+Sitemap: http://www.lefigaro.fr/le-scan-sport/diaporamas/sitemap.xml
+
+# Divers
+Sitemap: http://www.lefigaro.fr/sitemap_divers.xml

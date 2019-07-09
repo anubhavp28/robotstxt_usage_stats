@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?cmpid=*
+Disallow: /*?intcmp=*
+Disallow: /item/v1/
+Disallow: /search/v1/
+Disallow: /*uid*
+Disallow: /errorpage.html
+Disallow: /topicnew/*
+Disallow: /newtop10/*
+Disallow: /newtopicnew/*
+Sitemap: http://www.gome.com.cn/sitemap.xml

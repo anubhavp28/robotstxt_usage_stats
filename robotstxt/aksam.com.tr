@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /_codes/
+Disallow: /_data/
+Disallow: /analytic/
+Disallow: /feeds/
+Disallow: /services/
+Disallow: /story/
+Disallow: /news/
+Disallow: /sports/
+Disallow: /money/
+Disallow: /176558932/
+Sitemap: https://www.aksam.com.tr/cache/SiteMap.xml
+Sitemap: https://www.aksam.com.tr/xml/HaberSiteMap.xml
+

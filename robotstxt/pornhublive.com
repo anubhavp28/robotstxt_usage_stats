@@ -1,0 +1,33 @@
+
+User-agent: *
+Disallow: /myalerts.php
+Disallow: /login
+Disallow: /reactivate
+Disallow: /signup
+Disallow: /join
+Disallow: /contact
+Disallow: /forgot-password
+Disallow: /comments
+Disallow: /landing
+Disallow: /exports
+Disallow: /gallerypopup
+Disallow: /snippets
+Disallow: /blacklabel
+Disallow: /email
+Disallow: /bio.php
+Disallow: /cam/*/*lp=*
+Disallow: /cam/*lp=*
+Disallow: /ajax
+Disallow: /inputs
+Disallow: *?nojs=*
+Disallow: *&nojs=*
+Disallow: *AFNO=*
+Disallow: *?stno=*
+Disallow: *&stno=*
+Disallow: *Xld_rct=*
+Disallow: *jntp=*
+Disallow: *sakey=*
+Disallow: *sabasic=*
+
+User-agent: proximic
+Disallow: /

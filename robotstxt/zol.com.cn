@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:/?*
+Disallow:/index.html
+Disallow:/index.shtml
+Disallow:/shequjingxuan
+Disallow:https://www.zol.com.cn/*
+Disallow:/marketing/case/q=*

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /login?redirectUri=*
+Disallow: /*/login?redirectUri=*
+Disallow: /signup?redirectUri=*
+Disallow: /*/signup?redirectUri=*
+Disallow: /fbupload
+Disallow: /logout
+Disallow: /cajax
+Disallow: /.*
+Disallow: /javascript/*
+Disallow: /@*/manage/*

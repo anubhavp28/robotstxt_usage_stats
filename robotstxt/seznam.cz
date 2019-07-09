@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /tv
+Disallow: /r/
+Disallow: /hobby/hledani
+Disallow: /prozeny/hledani
+Disallow: /horoskopy/hledani
+Disallow: /magazin/hledani
+
+User-agent: SeznamBot
+Disallow: /tv
+Disallow: /r/
+Disallow: /hobby/hledani
+Disallow: /prozeny/hledani
+Disallow: /horoskopy/hledani
+Disallow: /magazin/hledani
+
+Sitemap: https://www.seznam.cz/jizdnirady/sitemap.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tv
+Disallow: /mobile
+Sitemap:https://www.orange.fr/sitemap.xml
